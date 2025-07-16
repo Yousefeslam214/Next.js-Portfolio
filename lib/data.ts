@@ -4,7 +4,12 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+// import ajwadPic from "@/public/ajw-ad-pic.jpg";
+import ajwadPic from "@/public/ajwadPic.jpg";
+import aetherPic from "@/public/aetherPic.jpg";
+import grandPic from "@/public/grandPic.jpg";
+// import crmPic from "@/public/crmPic.avif";
+import trippyPic from "@/public/trippyPic.jpg";
 
 export const links = [
   {
@@ -16,16 +21,16 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Projects",
-    hash: "#projects",
+    name: "Experience",
+    hash: "#experience",
   },
   {
     name: "Skills",
     hash: "#skills",
   },
   {
-    name: "Experience",
-    hash: "#experience",
+    name: "Projects",
+    hash: "#projects",
   },
   {
     name: "Contact",
@@ -33,38 +38,12 @@ export const links = [
   },
 ] as const;
 
-// export const experiencesData = [
-//   {
-//     title: "Graduated bootcamp",
-//     location: "Miami, FL",
-//     description:
-//       "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-//     icon: React.createElement(LuGraduationCap),
-//     date: "2019",
-//   },
-//   {
-//     title: "Front-End Developer",
-//     location: "Orlando, FL",
-//     description:
-//       "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-//     icon: React.createElement(CgWorkAlt),
-//     date: "2019 - 2021",
-//   },
-//   {
-//     title: "Full-Stack Developer",
-//     location: "Houston, TX",
-//     description:
-//       "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-//     icon: React.createElement(FaReact),
-//     date: "2021 - present",
-//   },
-// ] as const;
 export const experiencesData = [
   {
     title: "Software Engineer",
     location: "Ajwad Developments – Real Estate Company",
     description:
-      "Customized Odoo ERP modules for real estate sales and bookings. Worked closely with sales/operations teams to optimize workflows. Built AJW-AD CRM with React.js and Node.js. Enhanced website UX for showcasing properties. Delivered Odoo training for sales teams.",
+      "Customized Odoo ERP modules for real estate sales and bookings. Worked closely with sales/operations teams to optimize workflows.  Delivered Odoo training for sales teams. build website of company for showcasing properties. Built AJW-AD CRM with React.js and Node.js.",
     icon: React.createElement(CgWorkAlt),
     date: "Sep 2024 – Present",
   },
@@ -82,31 +61,55 @@ export const experiencesData = [
     description:
       "12-month intensive full-stack program. Mastered C, Python, JavaScript, SQL, Bash. Built low-level systems (shell, malloc, linked lists). Practiced OOP, data structures, algorithms, debugging, and web development.",
     icon: React.createElement(LuGraduationCap),
-    date: "2023 – 2024",
+    date: "July 2023 – July 2024",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Grand Events Website",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "An elegant and responsive website for an event management company. Designed with a modern UI to showcase services and events.",
+    tags: ["Next.js", "Tailwind", "React"],
+    imageUrl: grandPic,
+    demoUrl: "https://grand-events-website.vercel.app/",
+    githubUrl: "https://github.com/Yousefeslam214/Grand-Events-Website",
   },
   {
-    title: "rmtDev",
+    title: "CRM for Real Estate Company",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "A custom CRM system built to manage leads, clients, and sales for a real estate company.",
+    tags: ["React.js", "Node.js", "MUI"],
+    // imageUrl: crmPic,
+    demoUrl: "https://your-crm-demo-link.com",
+    videoUrl: "https://your-crm-video-link.com",
+    githubUrl: "https://github.com/your-username/crm-real-estate",
   },
   {
-    title: "Word Analytics",
+    title: "Ajwad Website",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "Corporate website developed for a real estate brand. Built using WordPress with custom theme modifications.",
+    tags: ["WordPress"],
+    imageUrl: ajwadPic,
+    demoUrl: "https://ajw-ad.net/",
+  },
+  {
+    title: "Aether Pixels Website",
+    description:
+      "A visually-rich website created for a design agency. Built with WordPress focusing on aesthetics and performance.",
+    tags: ["WordPress"],
+    imageUrl: aetherPic,
+    demoUrl: "https://aetherpixels.com",
+    // githubUrl: "https://github.com/your-username/aetherpixels",
+  },
+  {
+    title: "Trippy Website",
+    description:
+      "A modern travel-themed web app built using React.js and JavaScript. Focused on smooth UI and performance.",
+    tags: ["React.js", "JavaScript"],
+    imageUrl: trippyPic,
+    demoUrl: "https://trippy-website-demo.com",
+    githubUrl: "https://github.com/your-username/trippy-website",
   },
 ] as const;
 

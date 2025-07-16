@@ -20,8 +20,8 @@ export default function About() {
       <p className="mb-3">
         <span className="italic">
           “ From the moment I wrote my first line of code
+        , I knew I had found something special. ”
         </span>
-        , I knew I had found something special.”
       </p>
 
       <p className="mb-3">

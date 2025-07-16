@@ -27,14 +27,13 @@ export default function Contact() {
       }}
       viewport={{
         once: true,
-      }}
-    >
+      }}>
       <SectionHeading>Contact me</SectionHeading>
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Please contact me directly at{" "}
-        <a className="underline" href="mailto:example@gmail.com">
-          example@gmail.com
+        <a className="underline" href="mailto:yousefeslam214@gmail.com">
+          yousefeslam214@gmail.com
         </a>{" "}
         or through this form.
       </p>
@@ -42,6 +41,8 @@ export default function Contact() {
       <form
         className="mt-10 flex flex-col dark:text-black"
         action={async (formData) => {
+          const form = document.querySelector("form");
+
           const { data, error } = await sendEmail(formData);
 
           if (error) {
@@ -49,9 +50,9 @@ export default function Contact() {
             return;
           }
 
+          form?.reset();
           toast.success("Email sent successfully!");
-        }}
-      >
+        }}>
         <input
           className="h-14 px-4 rounded-lg borderBlack dark:bg-white dark:bg-opacity-80 dark:focus:bg-opacity-100 transition-all dark:outline-none"
           name="senderEmail"
