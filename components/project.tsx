@@ -75,7 +75,15 @@ import Image from "next/image";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { Github, ExternalLink, Play } from "lucide-react";
 
-type ProjectProps = (typeof projectsData)[number];
+type ProjectProps = {
+  title: string;
+  description: string;
+  tags: string[];
+  imageUrl: string;
+  demoUrl?: string;
+  videoUrl?: string;
+  githubUrl?: string;
+};
 
 export default function Project({
   title,
