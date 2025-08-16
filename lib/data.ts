@@ -9,6 +9,7 @@ import ajwadPic from "@/public/ajwadPic.jpg";
 import aetherPic from "@/public/aetherPic.jpg";
 import grandPic from "@/public/grandPic.jpg";
 // import crmPic from "@/public/crmPic.avif";
+import crmPic from "@/public/crmPic.jpg";
 import trippyPic from "@/public/trippyPic.jpg";
 
 export const links = [
@@ -67,6 +68,16 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "CRM for Real Estate Company",
+    description:
+      "A custom CRM system built to manage leads, clients, and sales for a real estate company.",
+    tags: ["React.js", "Node.js", "MUI"],
+    imageUrl: crmPic,
+    demoUrl: "https://your-crm-demo-link.com",
+    videoUrl: "https://your-crm-video-link.com",
+    githubUrl: "https://github.com/your-username/crm-real-estate",
+  },
+  {
     title: "Grand Events Website",
     description:
       "An elegant and responsive website for an event management company. Designed with a modern UI to showcase services and events.",
@@ -74,16 +85,6 @@ export const projectsData = [
     imageUrl: grandPic,
     demoUrl: "https://grand-events-website.vercel.app/",
     githubUrl: "https://github.com/Yousefeslam214/Grand-Events-Website",
-  },
-  {
-    title: "CRM for Real Estate Company",
-    description:
-      "A custom CRM system built to manage leads, clients, and sales for a real estate company.",
-    tags: ["React.js", "Node.js", "MUI"],
-    // imageUrl: crmPic,
-    demoUrl: "https://your-crm-demo-link.com",
-    videoUrl: "https://your-crm-video-link.com",
-    githubUrl: "https://github.com/your-username/crm-real-estate",
   },
   {
     title: "Ajwad Website",

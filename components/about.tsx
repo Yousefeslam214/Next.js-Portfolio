@@ -11,20 +11,20 @@ export default function About() {
   return (
     <motion.section
       ref={ref}
-      className="mb-28 max-w-[45rem] text-center leading-8 sm:mb-40 scroll-mt-28"
+      className="mb-28 max-w-[60rem] text-center leading-8 sm:mb-40 scroll-mt-28"
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.175 }}
       id="about">
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
+      <p className="mb-3 text-lg">
         <span className="italic">
-          “ From the moment I wrote my first line of code
-        , I knew I had found something special. ”
+          “ From the moment I wrote my first line of code , I knew I had found
+          something special. ”
         </span>
       </p>
 
-      <p className="mb-3">
+      <p className="mb-3 text-lg">
         While studying <span className="font-medium">Computer Science</span> in
         college, I realized that classroom learning alone wasn’t enough. I
         craved deeper, hands-on experience. That’s when I joined{" "}
@@ -35,7 +35,7 @@ export default function About() {
         skills, and connected me with a global community of aspiring developers.
       </p>
 
-      <p className="mb-3">
+      <p className="mb-3 text-lg">
         Through countless late nights of debugging, building full-stack
         applications, and collaborating with developers across the continent,
         I’ve grown not just as a coder, but as a{" "}
@@ -45,7 +45,7 @@ export default function About() {
         .
       </p>
 
-      <p className="mb-3">
+      <p className="mb-3 text-lg">
         Today, I focus on{" "}
         <span className="font-medium">full-stack web development</span>,
         combining technical knowledge with creativity to build solutions that
@@ -55,7 +55,7 @@ export default function About() {
         digital experiences that leave a lasting impact.
       </p>
 
-      <p className="mb-3">
+      <p className="mb-3 text-lg">
         I’m always excited to connect, collaborate, and contribute to meaningful
         projects. Let’s build something great together.
       </p>
