@@ -41,6 +41,23 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Intern Frontend Web Developer",
+    location: "Crystal Soft – ERP Company",
+    description: `
+      I interned at Crystal ERP, where I worked on a large ERP system and got real-world experience with both frontend development and business logic.
+
+      I collaborated with senior frontend and backend developers, and I also learned a lot from the General Manager about how business needs translate into technical features.
+
+      ✅ What I gained:
+      • Experience in big, real systems (with both good and bad architecture)
+      • Better understanding of how frontend and backend teams work together
+      • Exposure to real business logic and how decisions are made
+      • Improved my coding skills and learned to work in a team
+    `,
+    icon: React.createElement(CgWorkAlt),
+    date: "June 2025 – July 2025",
+  },
+  {
     title: "Software Engineer",
     location: "Ajwad Developments – Real Estate Company",
     description:
@@ -73,9 +90,10 @@ export const projectsData = [
       "A custom CRM system built to manage leads, clients, and sales for a real estate company.",
     tags: ["React.js", "Node.js", "MUI"],
     imageUrl: crmPic,
-    demoUrl: "https://your-crm-demo-link.com",
-    videoUrl: "https://your-crm-video-link.com",
-    githubUrl: "https://github.com/your-username/crm-real-estate",
+    // demoUrl: "https://your-crm-demo-link.com",
+    videoUrl:
+      "https://drive.google.com/file/d/1fGMzCh8GFaN8pnWWDy6BsmetVQLu-aO5/view?usp=drivesdk",
+    githubUrl: "https://github.com/Ajwad-real-estate",
   },
   {
     title: "Grand Events Website",
@@ -109,8 +127,8 @@ export const projectsData = [
       "A modern travel-themed web app built using React.js and JavaScript. Focused on smooth UI and performance.",
     tags: ["React.js", "JavaScript"],
     imageUrl: trippyPic,
-    demoUrl: "https://trippy-website-demo.com",
-    githubUrl: "https://github.com/your-username/trippy-website",
+    demoUrl: "https://trippy-214.netlify.app/",
+    githubUrl: "https://github.com/Yousefeslam214/Trippy",
   },
 ] as const;
 
