@@ -71,20 +71,27 @@
 
 import { useRef } from "react";
 import { projectsData } from "@/lib/data";
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { Github, ExternalLink, Play } from "lucide-react";
 
 type ProjectProps = {
-  title: string;
-  description: string;
-  tags: string[];
-  imageUrl: string;
+  title?: string;
+  description?: string;
+  tags: readonly string[];
+  imageUrl?: string | StaticImageData;
   demoUrl?: string;
   videoUrl?: string;
   githubUrl?: string;
 };
-
+// export type ProjectProps = {
+//   title: string;
+//   description: string;
+//   tags: readonly string[];
+//   imageUrl: StaticImageData;
+//   demoUrl: string;
+//   githubUrl: string;
+// };
 export default function Project({
   title,
   description,
@@ -165,7 +172,7 @@ export default function Project({
         </div>
 
         <Image
-          src={imageUrl}
+          src={imageUrl || ""}
           alt="Project I worked on"
           quality={100}
           className="absolute hidden sm:block top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl
