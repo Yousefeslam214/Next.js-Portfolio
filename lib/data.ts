@@ -88,8 +88,8 @@ export const projectsData = [
   {
     title: "Real Estate Website",
     description:
-      "A modern real estate website built with Next.js and TypeScript. It features a clean and responsive design with Tailwind CSS, supports both Arabic and English, and includes dark/light mode for better user experience. The site is optimized for performance, SEO, and scalability, making it perfect for real estate businesses that want to showcase properties in a professional way.",
-    tags: ["Next.js", "TypeScript", "Tailwind CSS", "i18n", "Dark/Light Mode"],
+      "The site is optimized for performance and SEO, with full Arabic and English support, making it ideal for showcasing properties in a polished and professional way.",
+    tags: ["Next.js", "TypeScript", "Tailwind"],
     imageUrl: realEstateImage,
     demoUrl: "https://real-estate-website-nextjs-lovat.vercel.app/",
     // videoUrl: "",
