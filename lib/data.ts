@@ -89,7 +89,7 @@ export const projectsData = [
     title: "Real Estate Website",
     description:
       "The site is optimized for performance and SEO, with full Arabic and English support, making it ideal for showcasing properties in a polished and professional way.",
-    tags: ["Next.js", "TypeScript", "Tailwind"],
+    tags: ["Next.js", "TypeScript", "Node.js", "Tailwind"],
     imageUrl: realEstateImage,
     demoUrl: "https://real-estate-website-nextjs-lovat.vercel.app/",
     // videoUrl: "",
