@@ -100,6 +100,26 @@ export type ProjectData = {
 
 export const projectsData: readonly ProjectData[] = [
   {
+    slug: "eu-grant-finder",
+    title: "EU Grant Finder",
+    description:
+      "AI-powered grant discovery platform that matches organizations with relevant EU funding opportunities in minutes.",
+    details: [
+      "EU Grant Finder is an internal discovery tool that helps organizations find suitable funding opportunities quickly using AI-powered matching.",
+      "The platform uses official data from the EU Funding & Tenders Portal and presents personalized results with clear scoring and explanation to support faster decision making.",
+      "It focuses on reducing manual search time and helping teams prioritize the most relevant opportunities before starting applications.",
+    ],
+    highlights: [
+      "AI-powered profile-to-grant matching",
+      "Integration with official EU Funding & Tenders data",
+      "Smart scoring with explanation for each recommendation",
+      "Fast discovery workflow from profile to shortlist",
+    ],
+    tags: ["Next.js", "TypeScript", "AI", "EU Funding"],
+    imageUrl: corpcommentImg,
+    demoUrl: "https://eu.dragify.ai/",
+  },
+  {
     slug: "real-estate-website",
     title: "Real Estate Website",
     description:
