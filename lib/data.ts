@@ -2,6 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
+import type { StaticImageData } from "next/image";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 // import ajwadPic from "@/public/ajw-ad-pic.jpg";
@@ -84,11 +85,34 @@ export const experiencesData = [
   },
 ] as const;
 
-export const projectsData = [
+export type ProjectData = {
+  slug: string;
+  title: string;
+  description: string;
+  details: string[];
+  highlights?: string[];
+  tags: readonly string[];
+  imageUrl: StaticImageData;
+  demoUrl?: string;
+  videoUrl?: string;
+  githubUrl?: string;
+};
+
+export const projectsData: readonly ProjectData[] = [
   {
+    slug: "real-estate-website",
     title: "Real Estate Website",
     description:
       "The site is optimized for performance and SEO, with full Arabic and English support, making it ideal for showcasing properties in a polished and professional way.",
+    details: [
+      "A marketing website for a real estate business, built to be fast, SEO-friendly, and easy to maintain.",
+      "Supports both Arabic and English content with a clean, responsive UI focused on property discovery and lead generation.",
+    ],
+    highlights: [
+      "Bilingual (Arabic/English) UI",
+      "SEO-focused pages and metadata",
+      "Responsive layout optimized for performance",
+    ],
     tags: ["Next.js", "TypeScript", "Node.js", "Tailwind"],
     imageUrl: realEstateImage,
     demoUrl: "https://real-estate-website-nextjs-lovat.vercel.app/",
@@ -97,9 +121,19 @@ export const projectsData = [
   },
 
   {
+    slug: "real-estate-crm",
     title: "CRM for Real Estate Company",
     description:
       "A custom CRM system built to manage leads, clients, and sales for a real estate company.",
+    details: [
+      "A tailored CRM to track leads, clients, and sales pipeline activities for a real estate team.",
+      "Designed to make daily sales operations faster and more organized with a clear UI and role-based workflows.",
+    ],
+    highlights: [
+      "Lead & client management",
+      "Sales pipeline tracking",
+      "Dashboard-style UI with MUI components",
+    ],
     tags: ["React.js", "Node.js", "MUI"],
     imageUrl: crmPic,
     // demoUrl: "https://your-crm-demo-link.com",
@@ -108,41 +142,69 @@ export const projectsData = [
     githubUrl: "https://github.com/Ajwad-real-estate",
   },
   {
+    slug: "grand-events-website",
     title: "Grand Events Website",
     description:
       "An elegant and responsive website for an event management company. Designed with a modern UI to showcase services and events.",
+    details: [
+      "A modern marketing site for an event management company, focused on clear service presentation and strong visuals.",
+      "Built with a responsive layout and smooth UI to highlight services, galleries, and call-to-action sections.",
+    ],
+    highlights: [
+      "Modern responsive UI",
+      "Service-first layout and CTAs",
+      "Optimized media and performance",
+    ],
     tags: ["Next.js", "Tailwind", "React"],
     imageUrl: grandPic,
     demoUrl: "https://grand-events-website.vercel.app/",
     githubUrl: "https://github.com/Yousefeslam214/Grand-Events-Website",
   },
   {
+    slug: "ajwad-website",
     title: "Ajwad Website",
     description:
       "Corporate website developed for a real estate brand. Built using WordPress with custom theme modifications.",
+    details: [
+      "A corporate website for a real estate brand, built on WordPress with custom theme adjustments.",
+      "Focused on a professional look, content structure, and maintainability for non-technical updates.",
+    ],
+    highlights: ["Custom theme modifications", "Content-focused structure"],
     tags: ["WordPress"],
     imageUrl: ajwadPic,
     demoUrl: "https://ajw-ad.net/",
   },
   {
+    slug: "aether-pixels-website",
     title: "Aether Pixels Website",
     description:
       "A visually-rich website created for a design agency. Built with WordPress focusing on aesthetics and performance.",
+    details: [
+      "A visually rich website for a design agency with a strong emphasis on aesthetics and fast loading.",
+      "Built on WordPress to allow easy content updates while maintaining a polished UI.",
+    ],
+    highlights: ["Design-focused layout", "Performance-minded build"],
     tags: ["WordPress"],
     imageUrl: aetherPic,
     demoUrl: "https://aetherpixels.com",
     // githubUrl: "https://github.com/your-username/aetherpixels",
   },
   {
+    slug: "trippy-website",
     title: "Trippy Website",
     description:
       "A modern travel-themed web app built using React.js and JavaScript. Focused on smooth UI and performance.",
+    details: [
+      "A travel-themed web app with a modern, smooth UI and responsive layout.",
+      "Built with React to practice component-driven architecture and interactive UI patterns.",
+    ],
+    highlights: ["Component-based UI", "Responsive layout", "Smooth interactions"],
     tags: ["React.js", "JavaScript"],
     imageUrl: trippyPic,
     demoUrl: "https://trippy-214.netlify.app/",
     githubUrl: "https://github.com/Yousefeslam214/Trippy",
   },
-] as const;
+];
 
 export const skillsData = [
   "Next.js",
