@@ -69,7 +69,7 @@ const skillsByCategory = [
     title: "Tools & Delivery",
     description: "Shipping reliable products with modern tooling.",
     icon: Wrench,
-    skills: ["Git", "CI/CD", "DevOps", "System Design", "WordPress", "Shopify"],
+    skills: ["Git", "CI/CD", "DevOps", "System Design"],
   },
 ] as const;
 
@@ -95,7 +95,7 @@ export default function Skills() {
           return (
             <motion.article
               key={group.title}
-              className="rounded-2xl border border-black/10 bg-white/80 p-5 shadow-sm dark:border-white/10 dark:bg-white/10"
+              className="group rounded-2xl border border-black/10 bg-white/80 p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:scale-[1.02] hover:shadow-md hover:bg-white dark:border-white/10 dark:bg-white/10 dark:hover:bg-white/15"
               variants={fadeInAnimationVariants}
               initial="initial"
               whileInView="animate"
@@ -103,13 +103,15 @@ export default function Skills() {
               custom={index}
             >
               <div className="mb-3 flex items-center gap-3">
-                <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-black text-white dark:bg-white dark:text-black">
+                <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-black text-white transition duration-300 group-hover:scale-110 group-hover:-translate-y-0.5 dark:bg-white dark:text-black">
                   <Icon className="h-4 w-4" />
                 </span>
-                <h3 className="text-lg font-semibold">{group.title}</h3>
+                <h3 className="text-lg font-semibold transition duration-300 group-hover:translate-x-0.5">
+                  {group.title}
+                </h3>
               </div>
 
-              <p className="mb-4 text-sm text-gray-600 dark:text-white/70">
+              <p className="mb-4 text-sm text-gray-600 transition duration-300 group-hover:text-gray-800 dark:text-white/70 dark:group-hover:text-white/90">
                 {group.description}
               </p>
 
@@ -117,7 +119,7 @@ export default function Skills() {
                 {group.skills.map((skill) => (
                   <li
                     key={skill}
-                    className="rounded-lg border border-black/10 bg-gray-100 px-3 py-1.5 text-sm text-gray-800 dark:border-white/15 dark:bg-white/10 dark:text-white/80"
+                    className="rounded-lg border border-black/10 bg-gray-100 px-3 py-1.5 text-sm text-gray-800 transition duration-300 group-hover:-translate-y-0.5 group-hover:bg-gray-200 dark:border-white/15 dark:bg-white/10 dark:text-white/80 dark:group-hover:bg-white/20"
                   >
                     {skill}
                   </li>
