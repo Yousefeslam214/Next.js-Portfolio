@@ -14,6 +14,8 @@ import { useTheme } from "@/context/theme-context";
 export default function Experience() {
   const { ref } = useSectionInView("Experience");
   const { theme } = useTheme();
+  const linkedinExperienceUrl =
+    "https://www.linkedin.com/in/yousef-eslam-dev/details/experience/";
 
   return (
     <section id="experience" ref={ref} className="scroll-mt-28 mb-28 sm:mb-40">
@@ -46,13 +48,34 @@ export default function Experience() {
             >
               <h3 className="font-semibold capitalize">{item.title}</h3>
               <p className="font-normal !mt-0">{item.location}</p>
-              <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75">
-                {item.description}
-              </p>
+              <ul className="!mt-3 list-disc space-y-1 pl-5 text-gray-700 dark:text-white/75">
+                {item.highlights.map((highlight) => (
+                  <li key={highlight}>{highlight}</li>
+                ))}
+              </ul>
+              {item.skills && (
+                <p className="!mt-3 !font-medium text-gray-800 dark:text-white/90">
+                  Skills: {item.skills}
+                </p>
+              )}
             </VerticalTimelineElement>
           </React.Fragment>
         ))}
       </VerticalTimeline>
+
+      <div className="mx-auto mt-12 max-w-4xl rounded-2xl border border-black/10 bg-gray-100 p-8 text-center shadow-sm sm:p-12 dark:border-white/10 dark:bg-white/10">
+        <p className="text-lg font-semibold sm:text-2xl">
+          For full experience details, visit my LinkedIn profile
+        </p>
+        <a
+          href={linkedinExperienceUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-5 inline-flex rounded-xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:opacity-90 dark:bg-white dark:text-black"
+        >
+          View Full Experience
+        </a>
+      </div>
     </section>
   );
 }

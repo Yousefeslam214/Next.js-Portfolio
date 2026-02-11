@@ -41,49 +41,112 @@ export const links = [
   },
 ] as const;
 
-export const experiencesData = [
-  {
-    title: "Intern Frontend Web Developer",
-    location: "Crystal Soft – ERP Company",
-    description: `
-      I interned at Crystal ERP, where I worked on a large ERP system and got real-world experience with both frontend development and business logic.
+export type ExperienceData = {
+  title: string;
+  location: string;
+  date: string;
+  highlights: string[];
+  skills?: string;
+  icon: React.ReactElement;
+};
 
-      I collaborated with senior frontend and backend developers, and I also learned a lot from the General Manager about how business needs translate into technical features.
-
-      ✅ What I gained:
-      • Experience in big, real systems (with both good and bad architecture)
-      • Better understanding of how frontend and backend teams work together
-      • Exposure to real business logic and how decisions are made
-      • Improved my coding skills and learned to work in a team
-    `,
-    icon: React.createElement(CgWorkAlt),
-    date: "June 2025 – July 2025",
-  },
+export const experiencesData: readonly ExperienceData[] = [
   {
     title: "Software Engineer",
-    location: "Ajwad Developments – Real Estate Company",
-    description:
-      "Customized Odoo ERP modules for real estate sales and bookings. Worked closely with sales/operations teams to optimize workflows.  Delivered Odoo training for sales teams. build website of company for showcasing properties. Built AJW-AD CRM with React.js and Node.js.",
+    location: "Cloudilic · Remote",
+    date: "Oct 2025 – Present",
+    highlights: [
+      "Built and improved RAG systems connected to internal knowledge bases and PDFs.",
+      "Developed AI agents for structured document analysis and workflow-based responses.",
+      "Integrated AI solutions across Meta channels (WhatsApp, Messenger, Instagram).",
+      "Built Dragify automations with Google Workspace, Calendar, and Microsoft integrations.",
+    ],
+    skills:
+      "LangChain, Graph Embeddings, AI Agents, Knowledge Graph Embeddings, Vector Databases, Webhooks, RAG",
     icon: React.createElement(CgWorkAlt),
-    date: "Sep 2024 – Present",
-  },
-  {
-    title: "Full Stack Oracle Developer Intern",
-    location: "Esperti Solutions – Software Company",
-    description:
-      "Built ERP modules using Oracle APEX and PL/SQL. Helped automate core enterprise workflows and designed business logic. Gained deep knowledge of ERP system architecture.",
-    icon: React.createElement(CgWorkAlt),
-    date: "July 2024 – Sep 2024",
   },
   {
     title: "Software Engineer Intern",
-    location: "ALX Africa – Remote",
-    description:
-      "12-month intensive full-stack program. Mastered C, Python, JavaScript, SQL, Bash. Built low-level systems (shell, malloc, linked lists). Practiced OOP, data structures, algorithms, debugging, and web development.",
-    icon: React.createElement(LuGraduationCap),
-    date: "July 2023 – July 2024",
+    location: "Cloudilic · Remote",
+    date: "Sep 2025 – Oct 2025",
+    highlights: [
+      "Learned RAG fundamentals, embeddings, and knowledge base design.",
+      "Worked on LangChain pipelines for AI-driven document processing.",
+      "Assisted in building AI agents for document analysis and workflow automation.",
+    ],
+    icon: React.createElement(CgWorkAlt),
   },
-] as const;
+  {
+    title: "Web Developer",
+    location: "Marketing Agency Omilet · Contract · Remote",
+    date: "Sep 2025 – Oct 2025",
+    highlights: [
+      "Built and customized Shopify themes with Liquid and dynamic sections.",
+      "Extended WordPress, Shopify, and Odoo projects with custom code improvements.",
+      "Joined client and pre-sales meetings to translate business goals into technical scope.",
+      "Collaborated with design and marketing teams on conversion-focused web projects.",
+    ],
+    icon: React.createElement(CgWorkAlt),
+  },
+  {
+    title: "Software Engineer",
+    location: "Ajwad Developments · Part-time · Cairo, Egypt",
+    date: "Sep 2024 – Oct 2025",
+    highlights: [
+      "Customized Odoo ERP modules for real-estate workflows and payment plans.",
+      "Improved CRM processes for lead follow-up, client management, and sales tracking.",
+      "Developed and enhanced company website using Next.js, Node.js, and TypeScript.",
+      "Trained sales teams and collaborated across sales, marketing, IT, and management.",
+    ],
+    icon: React.createElement(CgWorkAlt),
+  },
+  {
+    title: "Software Trainee",
+    location: "Al-Gammal Group · Internship · Cairo, Egypt",
+    date: "Aug 2025",
+    highlights: [
+      "Observed enterprise workflows and team structures in a large organization.",
+      "Learned how ERP+ supports operations and HR processes.",
+      "Strengthened ERP workflow understanding and professional communication.",
+    ],
+    icon: React.createElement(LuGraduationCap),
+  },
+  {
+    title: "Frontend Web Developer",
+    location: "Crystal Soft · Internship · Cairo, Egypt",
+    date: "Jun 2025 – Jul 2025",
+    highlights: [
+      "Worked on a large ERP frontend with real business logic scenarios.",
+      "Collaborated with frontend and backend teams in a production environment.",
+      "Improved system understanding, teamwork, and practical coding skills.",
+    ],
+    icon: React.createElement(CgWorkAlt),
+  },
+  {
+    title: "Full Stack Oracle Developer",
+    location: "Esperti Solutions · Internship · Cairo, Egypt",
+    date: "Aug 2024 – Sep 2024",
+    highlights: [
+      "Developed ERP modules using Oracle APEX and PL/SQL.",
+      "Automated business workflows across finance, sales, and HR.",
+      "Gained hands-on ERP architecture and backend integration experience.",
+    ],
+    skills: "PL/SQL, Business Workflows, Enterprise Resource Planning (ERP)",
+    icon: React.createElement(CgWorkAlt),
+  },
+  {
+    title: "Software Engineer Internship",
+    location: "ALX Africa · Remote",
+    date: "Aug 2023 – Aug 2024",
+    highlights: [
+      "Completed a 12-month intensive full-stack software engineering program.",
+      "Built low-level systems (shell, malloc, linked lists) and backend projects.",
+      "Strengthened OOP, algorithms, debugging, and web development foundations.",
+    ],
+    skills: "Software Development, Node.js, React.js, C++, Software Engineering",
+    icon: React.createElement(LuGraduationCap),
+  },
+];
 
 export type ProjectData = {
   slug: string;
@@ -227,22 +290,31 @@ export const projectsData: readonly ProjectData[] = [
 ];
 
 export const skillsData = [
+  "AI Agents",
+  "RAG Systems",
+  "LangChain",
+  "Workflow Automation",
+  "Webhooks",
+  "APIs",
   "Next.js",
   "React",
   "Node.js",
   "Express",
-  "Odoo",
   "TypeScript",
   "JavaScript",
   "Python",
+  "WordPress",
+  "Shopify",
+  "Odoo",
   "Tailwind",
   "PostgreSQL",
   "MongoDB",
   "Redux",
-  // "Prisma",
-  // "GraphQL",
-  // "Apollo",
+  "Vector Databases",
   "Framer Motion",
+  "CI/CD",
+  "DevOps",
+  "System Design",
   "Git",
   "CSS",
   "HTML",
