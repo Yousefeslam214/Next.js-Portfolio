@@ -13,6 +13,7 @@ import crmPic from "@/public/crmPic.jpg";
 import trippyPic from "@/public/trippyPic.jpg";
 import realEstateImage from "@/public/realEstateImage.png";
 import tamImg from "@/public/tam.png";
+import dragImg from "@/public/drag.png";
 
 export const links = [
   {
@@ -163,6 +164,37 @@ export type ProjectData = {
 
 export const projectsData: readonly ProjectData[] = [
   {
+    slug: "dragify-ai-workflow-automation-platform",
+    title: "Dragify - AI Workflow Automation Platform",
+    description:
+      "No-code AI automation platform for building custom AI agents, integrating enterprise tools, and orchestrating real-time multi-agent workflows.",
+    details: [
+      "Dragify enables teams to automate marketing, sales, customer support, operations, HR, and finance workflows with minimal engineering effort.",
+      "The platform connects with CRMs, Slack, Gmail, Google Drive, Shopify, and other enterprise systems through scalable API integrations.",
+      "It focuses on real-time automation, webhook-driven orchestration, and one-click deployment to reduce manual work, engineering time, and operational errors.",
+      "My role included AI workflow automation, internal node development, and scalable integration delivery.",
+    ],
+    highlights: [
+      "Built and maintained custom internal Dragify nodes",
+      "Developed AI-powered workflows integrating Meta channels (WhatsApp, Messenger, Instagram), Trello, Google Workspace, and Microsoft tools",
+      "Designed asynchronous event-driven automations using webhooks for real-time task execution",
+      "Improved reliability and performance with unit testing, stress testing, and code-level optimizations",
+      "Collaborated with product and engineering teams to ship scalable AI automation across multiple business domains",
+      "Enabled low-code workflow automation for marketing, sales, operations, and HR teams",
+      "Reduced manual effort and operational errors across connected systems",
+    ],
+    tags: [
+      "AI Agents",
+      "Workflow Automation",
+      "No-Code Platform",
+      "Webhooks",
+      "API Integrations",
+      "Full-Stack Development",
+    ],
+    imageUrl: dragImg,
+    demoUrl: "https://dragify.ai",
+  },
+  {
     slug: "tamiyouz-whatsapp-crm-automation",
     title: "Tamiyouz - AI-Powered WhatsApp-to-CRM Sales Automation",
     description:
@@ -171,7 +203,6 @@ export const projectsData: readonly ProjectData[] = [
       "Tamiyouz is a production-grade AI CRM automation system built for real businesses, not a simple chatbot.",
       "I handled AI automation, AI agent development, workflow automation, and full-stack implementation.",
       "The system qualifies every lead step-by-step, captures structured information in CRM, and moves leads through the sales pipeline automatically while keeping human handoff available at any time.",
-      "Published on February 24, 2026.",
     ],
     highlights: [
       "Structured AI qualification that asks one focused question at a time",
@@ -188,7 +219,7 @@ export const projectsData: readonly ProjectData[] = [
     ],
     tags: [
       "Gemini",
-      "LangChain",
+      // "LangChain",
       "AI Chatbot",
       "AI Agent Development",
       // "Workflow Automation",
