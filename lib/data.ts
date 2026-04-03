@@ -4,7 +4,6 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import type { StaticImageData } from "next/image";
 import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
 // import ajwadPic from "@/public/ajw-ad-pic.jpg";
 import ajwadPic from "@/public/ajwadPic.jpg";
 import aetherPic from "@/public/aetherPic.jpg";
@@ -13,6 +12,7 @@ import grandPic from "@/public/grandPic.jpg";
 import crmPic from "@/public/crmPic.jpg";
 import trippyPic from "@/public/trippyPic.jpg";
 import realEstateImage from "@/public/realEstateImage.png";
+import tamImg from "@/public/tam.png";
 
 export const links = [
   {
@@ -162,6 +162,41 @@ export type ProjectData = {
 };
 
 export const projectsData: readonly ProjectData[] = [
+  {
+    slug: "tamiyouz-whatsapp-crm-automation",
+    title: "Tamiyouz - AI-Powered WhatsApp-to-CRM Sales Automation",
+    description:
+      "AI-powered CRM automation that converts WhatsApp conversations into structured lead qualification and automated pipeline movement with optional human takeover.",
+    details: [
+      "Tamiyouz is a production-grade AI CRM automation system built for real businesses, not a simple chatbot.",
+      "I handled AI automation, AI agent development, workflow automation, and full-stack implementation.",
+      "The system qualifies every lead step-by-step, captures structured information in CRM, and moves leads through the sales pipeline automatically while keeping human handoff available at any time.",
+      "Published on February 24, 2026.",
+    ],
+    highlights: [
+      "Structured AI qualification that asks one focused question at a time",
+      "CRM integration with Trello card creation, summary updates, labels, and stage tracking",
+      "Automatic pipeline progression based on lead responses",
+      "Human-in-the-loop controls for intervention and review at any moment",
+      "Knowledge-base grounding from campaign-specific PDF documents",
+      "Cost-efficient AI design optimized for token usage and per-message cost",
+      "Multi-session WhatsApp support for teams handling concurrent conversations",
+      "Full message logging for traceability, auditing, and team visibility",
+      "Business impact: faster response times and fewer missed opportunities",
+      "Business impact: cleaner structured data and improved decision making",
+      "Business impact: fewer manual pipeline errors with scalable operations",
+    ],
+    tags: [
+      "Gemini",
+      "LangChain",
+      "AI Chatbot",
+      "AI Agent Development",
+      // "Workflow Automation",
+      "Full-Stack Development",
+    ],
+    imageUrl: tamImg,
+    videoUrl: "https://www.youtube.com/watch?v=seyuTFpNhTQ",
+  },
   {
     slug: "eu-grant-finder",
     title: "EU Grant Finder",
