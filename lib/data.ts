@@ -57,7 +57,7 @@ export const experiencesData: readonly ExperienceData[] = [
     location: "Cloudilic & Dragify (SaaS) · Remote",
     date: "Aug 2025 – Present",
     highlights: [
-      "Led full-stack AI and workflow automation across Cloudilic and its SaaS platform Dragify, serving enterprise clients.",
+      "Developed full-stack AI and workflow automation across Cloudilic and its SaaS platform Dragify, serving enterprise clients.",
       "Built Dragify's core integration nodes including Meta (WhatsApp, Messenger, IG), Shopify, WooCommerce, SQL databases, WordPress, and Google/Microsoft Workspaces.",
       "Developed custom AI agents and RAG systems using LangChain, OpenAI, and Gemini for intelligent document querying and automated client workflows.",
       "Architected scalable SaaS infrastructure with robust CI/CD pipelines, stress testing, dynamic billing systems, and system health monitoring.",
@@ -71,7 +71,7 @@ export const experiencesData: readonly ExperienceData[] = [
   },
   {
     title: "Software Engineer Intern",
-    location: "Cloudilic · Remote",
+    location: "Cloudilic & Dragify (SaaS) · Remote",
     date: "Aug 2025 – Sep 2025",
     highlights: [
       "Learned AI fundamentals, including RAG (Retrieval-Augmented Generation), knowledge base design, and embeddings.",
