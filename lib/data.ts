@@ -201,6 +201,8 @@ export const projectsData: readonly ProjectData[] = [
       "Business impact: faster response times and fewer missed opportunities",
       "Business impact: cleaner structured data and improved decision making",
       "Business impact: fewer manual pipeline errors with scalable operations",
+      "Connected and stabilized Meta integrations (Messenger & Instagram)",
+      "Fixed system bugs and managed domain updates across multiple environments",
     ],
     tags: [
       "Gemini",
@@ -305,6 +307,40 @@ export const projectsData: readonly ProjectData[] = [
     demoUrl: "https://grand-events-website.vercel.app/",
     githubUrl: "https://github.com/Yousefeslam214/Grand-Events-Website",
   },
+  // {
+  //   slug: "mabrouk-project",
+  //   title: "Mabrouk - Core Platform & Dashboard",
+  //   description:
+  //     "A comprehensive client project involving core backend/frontend development, Telegram bot functionality, and a dedicated product dashboard.",
+  //   details: [
+  //     "Developed core backend and frontend features for the Mabrouk platform with continuous validations.",
+  //     "Implemented advanced Telegram-related functionalities.",
+  //     "Built and refined a detailed Product Dashboard for inventory and order management.",
+  //   ],
+  //   highlights: [
+  //     "End-to-end full-stack development",
+  //     "Telegram bot integration",
+  //     "Product Dashboard implementation",
+  //   ],
+  //   tags: ["React", "Node.js", "Telegram API", "Full-Stack Development"],
+  //   imageUrl: crmPic,
+  // },
+  // {
+  //   slug: "learning-rockets",
+  //   title: "Learning Rockets",
+  //   description:
+  //     "Client project focused on active development and strategic planning through ongoing synchronization.",
+  //   details: [
+  //     "Analyzed initial requirements, drafted contracts, and constructed the complete project plan.",
+  //     "Executed active development and tracked progress via ongoing sync meetings to ensure alignment with client goals.",
+  //   ],
+  //   highlights: [
+  //     "Requirements analysis and contract drafting",
+  //     "Project planning and structured execution",
+  //   ],
+  //   tags: ["Project Planning", "Full-Stack Development", "Agile Execution"],
+  //   imageUrl: dragImg,
+  // },
   // {
   //   slug: "ajwad-website",
   //   title: "Ajwad Website",
