@@ -1,0 +1,982 @@
+Next Steps
+· Continue improving workflows based on testing results.
+• Expand CI/CD coverage and monitoring.
+• Follow up with clients on updates and feedback.
+If you want, I can make it ↳ shorter (Slack-friendly quick update) or more technical (for engineers).
+Here's a more polished, professional and impactful Slack version:
+**Daily Report - April 16-18, 2026**
+improve this
+Daily Report - April 16-18, 2026
+[Dragify Al]
+Work Completed
+· Published a new blog on Dragify:
+DocSearch vs Knowledge
+→ https://dragify.ai/resources/blog/docsearch-vs-knowledge >
+Designed and built 2 end-to-end workflows:
+• Performed extensive testing across multiple nodes and integrations.
+•
+Identified edge cases and validated system behavior.
+•
+Documented results with a detailed report for each workflow.
+Continued CI/CD implementation and monitoring:
+• Improved deployment reliability.
+Ensured smoother pipeline execution and system stability.
+Follow-ups
+• Ongoing communication with:
+• Tamiyouz
+• Learning Rockets
+•
+Mabrouk
+• EU client
+Next Steps
+Iterate on workflows based on testing insights.
+• Expand CI/CD coverage and monitoring.
+• Align with clients on feedback and upcoming deliverables.
+If you want, I can make a more concise version (1-2 lines per section) or a more
+technical/internal engineering version.
+today is 19
+start on whatsapp media (vocie - image - video)
+Attend daily stand-up.
+Continue development on Mabrouk project. Added the product dashboard
+Create and organize the weekly plan
+Deploy Al Assistant template on the platform.
+Follow-ups:
+Show more
+Daily Report - Friday, April 19, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Started development on WhatsApp media support, including:
+• Voice messages
+Images
+• Videos
+Continued development on Mabrouk project:
+• Added the Product Dashboard.
+•
+Created and organized the weekly plan.
+• Deployed the Al Assistant template on the platform.
+Follow-ups
+• EU
+• Tamiyouz
+· Mabrouk
+Next Steps
+• Continue building and testing WhatsApp media features.
+• Improve Mabrouk product dashboard based on feedback.
+• Follow up with clients and monitor deployed Al Assistant template.
+Daily Report - Saturday, April 20, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Continued development on the Mabrouk project.
+•
+Enhanced WhatsApp Node with:
+• Media support (images, videos, voice)
+•
+Confirmation buttons
+• Group messaging support
+• Made phone number input optional
+Completed all requested edits from Tamiyouz.
+Follow-ups
+• Tamiyouz
+today is 20
+Attend daily stand-up.
+Continue development on Mabrouk project. Add and improve WhatsApp Node:
+Media support
+Confirmation buttons
+Groups
+Input phone number optional
+Show more
+• Mabrouk
+Next Steps
+• Continue testing WhatsApp Node features across different scenarios.
+• Improve stability and edge-case handling.
+• Proceed with Mabrouk development and validation.
+Attend daily stand-up.
+Meeting with EU client.
+Finish eu project
+Continue work on ci /cd
+Follow-ups:
+Tamiyouz finished him second work and him additional required
+edits
+Learning Rockets setup with him meeting tommorow at 12 pm EU client meeting, finished him work and recive the money Mabrouk
+Show more ▼
+Daily Report - Tuesday, April 21, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with EU client.
+Work Completed
+• Successfully completed and delivered the EU project.
+• Received payment from the EU client.
+•
+Continued work on CI/CD implementation.
+Follow-ups
+*
+*
+• Tamiyouz:
+• Completed the second phase of work.
+Received additional requested edits for the next iteration.
+• Learning Rockets:
+Scheduled meeting for tomorrow at 12 PM.
+•
+EU client:
+• Finalized delivery and closed the current scope. Mabrouk:
+• Ongoing follow-up.
+Next Steps
+• Continue CI/CD improvements and deployment stability.
+• Start working on Tamiyouz new requested edits.
+• Prepare for Learning Rockets meeting.
+• Continue progress on Mabrouk project.
+*
+Daily Report - Wednesday, April 22, 2026
+Meetings
+•
+Attended the daily stand-up meeting.
+• Meeting with Learning Rockets.
+Work Completed
+• Checked in with Tamiyouz for updates.
+•
+Built 5 e-commerce templates, including:
+Order Confirmation Automation
+• Customer Support Al Agent
+•
+Solved an issue in the WhatsApp Al Agent.
+today is 22apr
+Attend daily stand-up.
+Asked Tamiyouz about the news
+- customer support ai agent
+solve WhatsApp Al agent problem
+Send whatsapp btn for confirmation
+Show more ▾
+• Implemented WhatsApp confirmation button functionality.
+• Reviewed and handled WhatsApp Status Trigger (currently off).
+• Continued CI/CD implementation and optimization.
+Next Steps
+• Continue improving e-commerce templates and workflows.
+• Monitor WhatsApp features (Al agent + buttons).
+• Continue CI/CD enhancements and deployment stability.
+• Follow up with Tamiyouz and Learning Rockets on next actions.
+Daily Report - April 24-25, 2026
+[Dragify Al]
+Meetings
+Attend daily stand-up.
+Attend daily stand-up.
+Learning rocket contract
+Build 5 additional e-commerce templates.
+Follow-up Automation not finish yet
+Plan of COD Verification Automation (WhatsApp OTP)
+Plan of Cart Abandonment Automation
+Test Whatsapp Status trigger (off)
+Table of each node how much conusume
+Follow-ups:
+Tamiyouz
+Learning Rockets
+Show more ▼
+• Attended the daily stand-up meetings.
+Work Completed
+• Prepared Learning Rockets contract.
+Built 5 additional e-commerce templates.
+Worked on Follow-up Automation (not fully completed yet).
+Planned key automations:
+•
+COD Verification Automation (WhatsApp OTP)
+• Cart Abandonment Automation
+•
+Tested WhatsApp Status Trigger (currently off).
+•
+Created a consumption table for each node (credits usage).
+Continued CI/CD optimization and monitoring:
+•
+Workflow CI/CD is now working well.
+• Console & user-backend are stable, pending final merge for full functionality.
+Follow-ups
+• Tamiyouz
+• Learning Rockets
+• Mabrouk
+Next Steps
+• Complete Follow-up Automation.
+• Finalize CI/CD merge and ensure full system stability.
+Activate and test WhatsApp Status Trigger.
+• Continue improving e-commerce templates and automation flows.
+give me bullet item removed the whatsapp limiter and replaced with warning msg
+Removed WhatsApp limiter and replaced it with a warning message to inform users instead of
+blocking actions.
+improve thsi weekly plan
+Sunday
+Daily stundup
+Followup automation workflow template
+research on how integrate Whatsapp official
+Research on how to integrate your project into Dragify
+Ask about shipping workflow
+Ask about Followup automation workflow template Show more
+Here's a clean, structured, and more strategic version of your weekly plan:
+Weekly Plan
+Sunday - Research & Planning
+• Attend daily stand-up.
+Work on Follow-up Automation workflow template.
+• WhatsApp Official API integration
+• Research:
+•
+How to integrate projects into Dragify
+• Clarify requirements:
+• Shipping workflow
+•Follow-up Automation workflow template
+Monday - Workflow Development & QA
+•
+Build Cart Abandonment Workflow.
+Continue development on Mabrouk project.
+•
+Improve Al WooCommerce Importer workflow:
+·
+Prevent duplicate entries in spreadsheets.
+•
+Explain DevOps (CI/CD) setup to Eng. Elgharabawy.
+Perform testing on Meta nodes.
+Tuesday - Automation & Backend Testing
+• Perform testing on:
+• SQL
+• Google Calendar
+Build WhatsApp OTP Workflow.
+•
+Continue DevOps implementation.
+Continue development on Mabrouk project.
+Follow up with clients.
+Wednesday - E-commerce & Automation
+· Build Delivery Status Automation.
+•
+Test E-commerce integrations:
+•
+Shopify
+•
+WooCommerce
+Continue DevOps work.
+Continue development on Mabrouk project.
+• Follow up with clients.
+Thursday - Documentation & Stabilization
+• Add Setup Guide to all templates.
+• Perform full testing for all workflows.
+• Continue DevOps optimization.
+• Continue development on Mabrouk project.
+• Follow up with clients.
+Key Focus Areas
+·
+E-commerce automations (Cart Abandonment, Delivery, OTP).
+• Workflow reliability and testing coverage.
+• CI/CD stability and knowledge sharing.
+• Clean, reusable template documentation.
+•
+Continuous client communication.
+If you want, I can turn this into a high-level sprint plan with deliverables + KPIs + risks (much
+stronger if you're reporting to management).
+add those for sunday
+Calendar fix
+Add description &how to setup & guide for templates & removed whatsapp listener
+Add to whatsapp listener incoming & outcoming for implement the
+followup workflow
+Finish workflow Follow-up Automation
+Here's your updated weekly plan with Sunday enhanced and structured clearly:
+Weekly Plan
+Sunday - Research, Planning & Core Fixes
+·
+Attend daily stand-up.
+Core Tasks
+•
+Fix Calendar issues.
+Finish Follow-up Automation workflow.
+•
+Add incoming & outgoing handling to WhatsApp Listener to support follow-up workflows.
+Remove old WhatsApp Listener logic and refactor implementation.
+Templates & Documentation
+• Add:
+• Description
+• Setup guide
+• Usage instructions
+to all templates.
+Research & Planning
+•
+Research:
+•
+WhatsApp Official API integration
+•
+How to integrate projects into Dragify
+• Clarify:
+• Shipping workflow requirements
+•Follow-up Automation workflow details
+Monday - Workflow Development & QA
+•
+Build Cart Abandonment Workflow.
+•
+Continue development on Mabrouk project.
+• Improve Al WooCommerce Importer workflow:
+Prevent duplicate spreadsheet entries.
+•
+Explain DevOps (CI/CD) setup to Eng. Elgharabawy.
+Test Meta nodes.
+Tuesday - Automation & Backend Testing
+*
+*
+*
+*
+• Test:
+•
+SQL
+• Google Calendar
+Build WhatsApp OTP Workflow.
+•
+Continue DevOps implementation.
+• Continue development on Mabrouk project.
+• Follow up with clients.
+*
+Wednesday - E-commerce & Automation
+• Build Delivery Status Automation.
+Test E-commerce integrations:
+•
+Shopify
+• WooCommerce
+•
+Continue DevOps work.
+Continue Mabrouk development.
+•
+Follow up with clients.
+Thursday
+Documentation & Stabilization
+• Add Setup Guide to all templates.
+• Perform full workflow testing.
+•
+Continue DevOps optimization.
+Continue Mabrouk development.
+Follow up with clients.
+Key Focus Areas
+• Follow-up automation (core system).
+• WhatsApp integration improvements (listener + workflows).
+•
+E-commerce automations (Cart Abandonment, OTP, Delivery).
+·
+CI/CD stability and scalability.
+• High-quality templates (documentation + usability).
+• Continuous client communication.
+If you want, I can turn this into a product roadmap-style plan (with priorities P1/P2/P3) — that's
+usually even more powerful.
+Sunday 26
+Attend daily stand-up.
+Fix Calendar issues.
+Made High-quality for old templates (documentation + usability) &
+removed unused whatsapp listener
+Add incoming & outgoing handling to WhatsApp Listener to support
+follow-up workflows.
+Work on Follow-up Automation workflow template.
+Research:
+WhatsApp Official API integration
+How to integrate projects into Dragify
+Show more
+Daily Report - Sunday, April 26, 2026
+Meetings
+•
+Attended the daily stand-up meeting.
+Work Completed
+•
+Fixed Calendar issues.
+• Improved existing templates:
+•
+Added high-quality documentation and usability enhancements
+• Removed unused WhatsApp Listener
+Enhanced WhatsApp Listener:
+•
+• Added incoming & outgoing handling to support follow-up workflows
+Continued work on Follow-up Automation workflow template.
+Research
+• Researched:
+• WhatsApp Official API integration
+•
+How to integrate projects into Dragify
+Requirements Clarification
+• Asked and clarified:
+• Shipping workflow requirements
+• Follow-up Automation workflow details
+Next
+Steps
+• Finalize Follow-up Automation workflow.
+• Continue improving WhatsApp integration.
+• Apply research findings to system design.
+today is 27apr
+Edit in insta posting to solve bug in it & make it work good with ai
+agent
+Tested sql with ai agent and it work good
+Learning rockets
+EU
+Pdf of things need improve in dragify
+Show more ▼
+Daily Report - Monday, April 27, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Eng. Elgharabawy to explain DevOps (CI/CD) setup.
+Work
+Completed
+• Fixed issues in Instagram Posting and improved compatibility with the Al Agent.
+• Tested SQL integration with Al Agent - confirmed it works effectively.
+•
+Built Cart Abandonment Workflow.
+• Prepared a PDF report outlining areas for improvement in Dragify.
+Follow-ups
+•
+Followed up with:
+• Learning Rockets
+• Mr. Abderhaman
+• EU client
+Collaboration
+• Coordinated with the marketing team to gather requirements for:
+• Digital marketing automation
+• Automated publishing workflows
+Next Steps
+•
+Continue improving Instagram and Al Agent integrations.
+Implement marketing automation workflows based on requirements.
+O
+Implement marketing automation workflows based on requirements.
+Review
+and act on Dragify improvement points.
+O 6 9 ↑ ≈
+Follow up with clients.
+Pharmacies Empire <> Cloudilic
+Learning rockets
+Tamiyouz
+Mabrouk
+Marketing team
+EU
+Show more ▾
+Daily Report - Tuesday, April 28, 2026
+Meetings
+·
+Attended the daily stand-up meeting.
+• Meeting with Eng. Ahmed Elgharabawy regarding Shopify.
+• Meeting at 12 PM to discuss templates.
+• Meeting with Eng. Ahmed El-Bassyouni.
+Work Completed
+·
+Continued development on the Mabrouk project.
+Started backend merge process:
+•
+• Work in progress
+• Requires further testing and validation to ensure stability
+Follow-ups
+•
+Followed up with:
+• Pharmacies Empire <> Cloudilic
+• Learning Rockets
+•
+Tamiyouz
+• Mabrouk
+• Marketing team
+·
+EU client
+Next Steps
+• Complete backend merge and perform full testing.
+• Continue Mabrouk development.
+• Follow up with stakeholders based on meeting outcomes.
+today is apr 29
+Daily studup
+Follow up with clients
+EU
+mr abderhaman
+Workflows
+Build WhatsApp OTP Workflow
+Show more ✓
+Daily Report - Wednesday, April 29, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Built workflows:
+• WhatsApp OTP Workflow
+• Delivery Status Workflow
+Set up all repositories to support easier merging and collaboration.
+•
+Continued DevOps optimization:
+• Progress made, but faced free plan limitations
+• Planned to resolve in the next steps
+Made edits and improvements to:
+• Shopify Trigger Node
+•
+SQL Node
+Started working on EU project edits.
+Follow-ups
+• Followed up with:
+• EU client
+• Mr. Abderhaman
+Next Steps
+•
+• Continue EU project updates.
+Resolve DevOps plan limitations and continue optimization.
+• Test and refine new workflows (OTP & Delivery).
+• Monitor node improvements (Shopify Trigger & SQL).
+o B D Û ≈
+create to me bullet list for this to tell in meet recap
+Weekly Plan 26-30
+Sunday 26
+Attend daily stand-up.
+Meeting
+with mr abderhaman
+Fix Calendar issues.
+Made High-quality for old templates (documentation + usability) &
+removed unused whatsapp listener
+Show more
+Here's a clean meeting recap bullet list (structured + easy to present):
+Weekly Recap - Apr 26
+→
+Apr 30
+Sunday 26 - Planning, Fixes & Research
+Attended daily stand-up
+•
+Meeting
+•
+with
+Mr. Abderhaman
+• Fixed Calendar issues
+• Improved old templates:
+•
+Added documentation & usability improvements
+Removed unused WhatsApp listener
+•
+Enhanced WhatsApp Listener:
+•
+Added incoming & outgoing handling for follow-up workflows
+Worked on Follow-up Automation workflow template
+•
+Research:
+• WhatsApp Official API integration
+•
+Dragify integration approach
+•
+Clarified
+requirements:
+• Shipping workflow
+• Follow-up automation scope
+Monday 27 - Automation & DevOps
+•
+Daily stand-up
+•
+Built Cart Abandonment Workflow
+• Explained CI/CD (DevOps) to Eng. Elgharabawy
+•
+Tested SQL with Al Agent (successful)
+• Follow-ups:
+• Mr. Abderhaman
+• EU client
+Learning Rockets
+Delivered Dragify improvement PDF (system feedback)
+• Marketing request:
+• Digital marketing automation & auto publishing
+• Testing focus:
+Core system reliability
+•
+Workflow smoke testing
+•
+UX for new users
+• Billing & limits
+Tuesday 28 - Integrations & Testing
+•
+Daily stand-up
+• Meetings:
+• Shopify discussion with Eng. Ahmed
+• Templates discussion (12 PM)
+•
+Eng. Ahmed El-Bassyouny
+Testing:
+·
+Meta nodes
+•
+Shopify integration
+• WooCommerce integration
+• Follow-ups:
+•
+Continued Mabrouk project development
+EU, Learning Rockets, Tamiyouz, Mabrouk, Pharmacies Empire, Marketing team
+·
+Identified:
+• Shopify bug
+•
+Created LinkedIn content idea for Dragify
+• Prepared launch requirement PDF
+Core testing:
+•
+• Integrations
+• UX onboarding
+•
+Billing & limits
+• Final smoke testing
+Wednesday 29 — Workflows & DevOps
+• Daily stand-up
+• Follow-ups:
+• EU
+• Mr. Abderhaman
+Built
+workflows:
+WhatsApp OTP Workflow
+• Delivery Status Workflow
+• Improved Al WooCommerce Importer:
+• Removed duplicate spreadsheet entries
+· Continued Mabrouk project
+• Repo restructuring for easier merges
+• DevOps optimization (hit free plan limit)
+• Shopify Trigger & SQL node improvements
+Started EU project edits
+•
+Thursday 30 Stability & Documentation
+• Daily stand-up
+• Added Setup Guide for all templates
+•
+Performed full workflow testing
+• Continued Mabrouk development
+• Follow-ups:
+•
+Pharmacies Empire
+• EU
+• Learning Rockets
+•
+Created
+bug report PDF (all issues faced)
+•
+Identified need for:
+•
+Official WhatsApp node (OTP + confirmations)
+• Observed UI issue:
+·
+Missing sidebar in console during workflow view
+•
+Key
+Highlights of the Week
+•
+Built multiple core automation workflows (OTP, Delivery, Cart Abandonment)
+• Strong progress in Mabrouk project development
+• Significant CI/CD + DevOps foundation started
+• Improved Al Agent integration with SQL + WooCommerce
+•
+Increased focus on system reliability + testing + UX
+• Identified platform gaps:
+• WhatsApp official integration needed
+·
+Ul/console
+improvements
+•
+Workflow stability under limits
+If you want, I can also turn this into:
+•
+1-slide executive summary
+• or ↳ Slack-ready short recap (very compact)
+combine them not make them day by day and don't repeat any
+thing
+Here's a clean combined weekly recap (no repetition, grouped logically for meetings):
+Weekly Recap (Apr 26
+→
+Apr 30, 2026)
+• Core Development Work
+•
+Continued development on Mabrouk project across the week.
+•
+Built and improved multiple automation workflows:
+• Follow-up Automation workflow (design + implementation)
+•
+Cart Abandonment Workflow
+• WhatsApp OTP Workflow
+• Delivery Status Workflow
+• Improved and tested Al-driven workflows:
+SQL integration with Al Agent (confirmed working)
+•
+• Enhanced WhatsApp
+system:
+·
+WooCommerce importer improved (removed duplicate spreadsheet entries)
+Refactored WhatsApp Listener
+Added incoming & outgoing message handling
+Worked on WhatsApp OTP & confirmation flow requirements
+• Platform & System Improvements
+•
+Added setup guides and documentation for templates.
+• Improved old templates UX and usability.
+Removed unused/legacy WhatsApp listener components.
+• Created bug report documentation (PDF) for platform issues.
+• Identified need for official WhatsApp node (OTP + confirmations).
+• Noted Ul issue: missing sidebar in workflow console view.
+• Integrations & Testing
+•
+Tested and validated:
+• Shopify integration (including trigger + bug fixes)
+• WooCommerce integration
+• Meta nodes
+• SQL + Al Agent integration
+• Core workflow system stability (smoke testing mindset)
+•
+Worked on e-commerce automation stack validation:
+• Shopify
+•
+WooCommerce
+• SQL
+•
+Google-based workflows
+DevOps & Infrastructure
+•
+Worked with Eng. Elgharabawy on CI/CD setup and DevOps explanation.
+• Started repository restructuring for easier merging (multi-repo alignment).
+• Continued CI/CD optimization, but hit free plan limitations (to be handled later).
+• Improved Shopify Trigger and SQL node stability.
+• Research & Planning
+•
+Researched:
+• WhatsApp Official API integration
+• Dragify integration architecture
+Clarified
+requirements for:
+• Shipping workflows
+Follow-up automation system
+• Marketing automation needs (digital publishing & automation)
+Created system-level improvements document for Dragify (PDF).
+• Prepared LinkedIn content idea and launch requirements for platform visibility.
+• Client & Team Follow-ups
+•
+Continuous follow-ups with:
+• EU client
+•
+Tamiyouz
+• Learning Rockets
+•
+Mabrouk
+·
+Pharmacies Empire / Cloudilic
+Marketing team
+•
+Mr. Abderhaman
+•
+Conducted meetings covering:
+• Shopify workflows and templates
+• System architecture discussions
+•
+Product and integration alignment
+of the Week
+• Key Outcomes
+•
+• Strong progress in e-commerce
+•
+Stable foundation for automation workflows system
+integrations + Al Agent workflows
+CI/CD pipeline initiated and partially operational
+Clear gaps identified in:
+• WhatsApp official integration
+• Ul/console
+experience
+• Workflow scalability under limits
+• Main Focus Moving Forward
+•
+Stabilize CI/CD and resolve deployment limitations
+• Complete WhatsApp official integration
+•
+Strengthen e-commerce automation layer
+• Improve platform UX + workflow usability
+• Continue Mabrouk development and client delivery cycles
+If you want, I can convert this into:
+•
+→ CEO-style executive summary (very short)
+or ↳ Slack message version (5-8 lines only)
+↑ C
+make to me daily report for 30 may 2 may
+Daily studup
+Add Setup Guide to all templates.
+Perform full testing for all workflows.
+Continue development on Mabrouk project.
+Follow up with clients:
+Pharmacy empire
+eu
+Show more ✓
+Here are your two daily reports (May 30 & May 2) clearly structured:
+Daily Report - Friday, May 30, 2026
+Meetings
+•
+Attended the daily stand-up meeting.
+Work Completed
+•
+Added Setup Guide to all templates.
+• Performed full testing across all workflows to ensure stability.
+•
+Continued development on the Mabrouk project.
+• Set up and initialized Follow-up Automation workflow template.
+Follow-ups
+• Pharmacies Empire
+• EU client
+• Learning Rockets
+Next
+Steps
+• Continue improving workflow stability and automation logic.
+·
+Proceed with Mabrouk development.
+• Follow up with clients on feedback and next actions.
+*
+*
+*
+*
+*
+Daily Report - Saturday, May 2, 2026
+Meetings
+•
+Attended the daily stand-up meeting.
+Work Completed
+• Continued work on Follow-up Automation workflow template (setup & refinement).
+• Reviewed and ensured templates setup guides are properly integrated.
+•
+Re-tested workflows to validate system performance and reliability.
+*
+• Continued development on the Mabrouk project.
+Follow-ups
+• Pharmacies Empire
+• EU client
+• Learning Rockets
+Next Steps
+• Finalize Follow-up Automation workflow.
+• Continue testing and optimization.
+• Maintain client follow-ups and delivery alignment.
+If you want, I can also make a weekly summary from these days automatically.
+Daily Report - May 2 & May 30, 2026
+Meetings
+• Attended the daily stand-up meetings.
+Work Completed
+no create to me one report for the both days
+and add initializet the servers
+•
+Added Setup Guide to all templates.
+• Performed full testing across all workflows to ensure stability and reliability.
+•
+Continued development on the Mabrouk project.
+•
+Set up and initialized Follow-up Automation workflow template.
+·
+Initialized servers and prepared the environment for deployment and testing.
+Follow-ups
+•
+Pharmacies Empire
+• EU client
+• Learning Rockets
+Next Steps
+•
+Finalize Follow-up Automation workflow.
+• Continue testing and optimization across workflows.
+• Monitor server performance after initialization.
+•
+Follow up with clients on progress and feedback.
+make weekplan
+for only 3,4,5,6
+and add note 7 is holliday is Jalloj bl
+sunday
+servers 2 days
+Show more ▼
+Here's your clean weekly plan (May 3-6) with holiday note + realistic framing):
+Weekly Plan May 3 to May 6, 2026
+—
+Note: May 7 is a holiday (JLJlöjbĮ).
+This week capacity is limited, so some items may be partially completed and carried to next week
+Inshallah.
+Sunday - Infrastructure & Core Systems
+•
+Work on server setup & initialization (2 days scope)
+•
+Continue CI/CD implementation and stabilization
+• Monitor system readiness and deployment pipeline
+• Continue progress on Mabrouk project
+Monday - Finance & Core Automation
+•
+Build COD Cash & Settlement Reconciliation Agent
+Continue:
+• CI/CD improvements
+·
+Server stability & configuration
+Continue development on Mabrouk project
+Tuesday - Marketplace Intelligence & Communication
+•
+Build:
+• Marketplace Dispute Dossier Builder
+•
+Failed Delivery Rescue Orchestrator
+Add multi-send email feature (Gmail integration)
+Continue Mabrouk project development
+Wednesday - Monitoring & System Fixes
+•
+Build:
+⚫ Catalog Drift & Marketplace Gap Watchdog
+•
+Fix and handle node-related problems and debugging
+•
+Continue Mabrouk project development
+▲ Important Note (This Week Scope)
+Due to limited time availability, the following will be deferred to next week (Inshallah):
+•
+Al
+Agent Studio testing
+• Web scraping testing
+• Extended system testing coverage
+•
+Deep
+workflow validation
+Weekly Focus Summary
+•
+Server
+setup +
+CI/CD stabilization
+•
+Core
+marketplace automation agents
+• Mabrouk project continuous progress
+• System reliability + node debugging
+If you want, I can turn this into a sprint board (Trello-style tasks with priorities P0/P1/P2) or a CEO-
+level roadmap version.
+o B D Û ≈
+add on sunday
+replay on mr ahmed tamiyouz and research on dropshoping
+meet with marketing team
+and put the mabrouk project in ISA section
+Here's your updated weekly plan (May 3-6, 2026) with your additions and proper structure:
+Weekly Plan - May 3 to May 6, 2026 Note: May 7 is a holiday (JLlöjb|).
+This week is limited capacity, so some items may be deferred to next week Inshallah (ISA).
+Sunday -
+•
+Infrastructure, Research & Coordination
+Work on server setup & initialization (2 days scope)
+• Continue CI/CD implementation and stabilization
+• Reply to Mr. Ahmed (Tamiyouz)
+• Research Dropshipping systems and workflows
+• Meeting with Marketing team
+Monitor system readiness and deployment pipeline
+Monday
+•
+- Finance & Core Automation
+Build COD Cash & Settlement Reconciliation Agent
+• Continue:
+CI/CD
+improvements
+• Server stability & configuration
+▲ Mabrouk project → ISA (Next week continuation)
+Tuesday - Marketplace Intelligence & Communication
+•
+Build:
+• Marketplace Dispute Dossier Builder
+•
+• Failed Delivery Rescue Orchestrator
+Add multi-send email feature (Gmail integration)
+A Mabrouk project → ISA
+Wednesday - Monitoring & System Fixes
+Build:
+•
+• Catalog Drift & Marketplace Gap Watchdog
+Fix and handle node-related problems and debugging
+▲
+Mabrouk project → ISA
+Deferred (Next Week Inshallah / ISA)
+•
+Full Mabrouk project development continuation
+•
+Al Agent Studio testing
+Web scraping testing
+• Deep system validation and stress testing
+Weekly Focus Summary
+•
+Server
+•
+setup + CI/CD stabilization
+Marketplace automation agents (finance + logistics + monitoring)
+• Dropshipping + marketing research
+*
+*

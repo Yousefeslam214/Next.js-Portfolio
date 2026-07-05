@@ -1,0 +1,833 @@
+System reliability improvements
+Coordination with teams (Marketing + Tamiyouz + stakeholders)
+If you want, I can next → convert this into a priority roadmap (PO/P1/P2 + effort estimation) so you can execute it faster during the week.
+O B D 1 2 ...
+prepare to me may 3 report sunday
+Meetings Attended:
+Daily stand-up meeting
+Templates discussion meetings (2 sessions) research on workflows
+today is 4 may
+Build COD Cash & Settlement Reconciliation Agent Marketing team videos
+matriales
+workflow
+Work on server setup & initialization now eu workon new servers
+• Meetings
+• Daily stundaup
+• Engineers meet
+Eng mahmoud meet
+Show more
+Here are your two daily reports (May 3 & May 4, 2026), clean and ready:
+Daily Report - Sunday, May 3, 2026
+Meetings Attended
+• Daily stand-up meeting
+• Templates discussion meetings (2 sessions)
+Work Completed
+• Conducted research on workflows (structure, improvements, and use cases).
+• Started reviewing templates strategy and alignment with platform needs.
+Next Steps
+•
+Continue workflow design and validation.
+• Align templates with real use cases and automation goals.
+Daily Report - Monday, May 4, 2026
+Meetings
+• Attended daily stand-up
+• Engineers meeting (project sync & priorities)
+• Meeting with Eng. Mahmoud
+Work Completed
+· Built COD Cash & Settlement Reconciliation Agent workflow
+• Prepared marketing materials & videos with the marketing team
+•
+Worked on server setup & initialization (EU — new servers) Continued server stability & configuration improvements
+Follow-ups
+•
+Mr. Abderhaman's project
+• Learning Rockets
+• Tamiyouz
+• Marketing team
+• EU client
+Next Steps
+• Continue server setup and ensure stability.
+• Improve COD workflow and validate outputs.
+• Follow up with stakeholders on progress.
+today is may 5 tuesday
+Build:
+Return Deflection and Exchange Saver
+COD Cash and Settlement Reconciliation Agent Add multi-send email feature (Gmail integration) Abderhman project
+3
+Post on LinkedIn & meet at 2 PM smart ai agent reduce rtns and recommend new products
+Show more
+Daily Report - Tuesday, May 5, 2026
+Meetings
+• Meeting at 2 PM (discussion on Smart Al Agent to reduce returns and recommend products).
+Work Completed
+•
+Built and worked on:
+• Return Deflection & Exchange Saver workflow
+• COD Cash & Settlement Reconciliation Agent
+Implemented multi-send email feature (Gmail integration).
+• Continued work on Abderhaman's project.
+•
+Published a LinkedIn post about the Al agent (reducing returns + product recommendations).
+• Logged and tracked bugs on GitHub Kanban.
+Next Steps
+•
+Continue improving automation workflows (returns + COD).
+• Test and optimize Gmail multi-send feature.
+• Follow up on Abderhaman's project progress.
+• Address and resolve logged bugs.
+May 6 Wednesday
+Daily stundup
+Update the domain with the server (projects elwaseet tamiyouz)
+1
+Abderhman project meeting
+await take apis
+Prepare Learning rocket plan & meet 3
+Create material of linkedin post 5
+Week recap at 2.00 PM
+6
+Under the guidance of Eng. Ahmed Elgrabawy, all migrations have
+Show more
+Daily Report - Wednesday, May 6, 2026
+Meetings
+•
+Attended daily stand-up
+• Week recap meeting at 2:00 PM
+• Meeting for Learning Rockets plan preparation
+• Abderhaman project meeting (awaiting API access)
+Work Completed
+• Updated and connected domains to servers for:
+Elwaseet project
+• Tamiyouz project
+• Successfully completed server migrations and domain transfer
+Done under guidance of Eng. Ahmed Elgharabawy
+• Prepared Learning Rockets plan
+•
+Created LinkedIn post materials
+Next Steps
+• Follow up to receive APIs for Abderhaman project
+• Continue execution of Learning Rockets plan
+• Monitor server/domain stability after migration
+•
+Proceed with pending integrations and tasks
+o B D Û ≈ ...
+sunday 10 may
+Shopify actions newly added
+orderMarkAsPaid
+returnCreate
+returnApproveRequest
+return DeclineRequest refundCreate
+getReturns,
+Show more ▾
+Daily Report - Sunday, May 10, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+Shopify - Newly Added Actions
+orderMarkAsPaid
+•
+returnCreate
+•
+returnApproveRequest
+• returnDeclineRequest
+• refundCreate
+• getReturns
+•
+getReturnById
+WooCommerce - Newly Added Actions
+•
+orderMarkAsPaid
+refundCreate
+Workflow & Automation Development
+· Built:
+• Catalog Drift & Marketplace Gap Watchdog
+• Investigated implementation requirements for:
+• Catalog Drift & Marketplace Gap Watchdog
+• Identified workflow dependency requirements:
+•
+orderMarkAsPaid (GraphQL)
+• Or execution through a generic HTTP/API Request Node
+Similar architecture requirements identified in:
+COD Cash & Settlement Reconciliation Agent
+Platform & System Improvements
+Resolved Outlook integration issues.
+• Prepared codebase and repositories for merge readiness.
+• Created and organized the weekly plan.
+Shopify & WooCommerce Enhancements
+•
+Enhanced and tested:
+• Shopify triggers/actions
+· WooCommerce triggers/actions
+Added:
+•
+New workflow requirements
+Product sales count tracking ("how many times product sold")
+Improved WhatsApp Sender Node:
+• Added support for sending Voice Agent workflows.
+UI / Landing Page
+•
+Edited and updated landing page pricing plans.
+Next Steps
+• Continue testing marketplace workflows and integrations.
+• Finalize merge preparation and deployment readiness.
+• Expand workflow compatibility using HTTP/API request execution.
+O B D 1 2
+Monday - May 12
+Daily stundup
+Create 2 new templates.
+1
+COD Cash and Settlement Reconciliation Agent
+Catalog Drift and Marketplace Gap Watchdog
+Prepare and extensively test:
+production-ready templates for sales rehearsals and demos.
+2
+Failed Delivery Rescue Orchestrator into 2 parts
+Show more ▾
+Daily Report - Monday, May 12, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Learning Rockets.
+• Follow-up and coordination with Eng. Ahmed El-Bassyouni.
+Work Completed
+Templates & Workflow Development
+Created 2 new templates:
+COD Cash & Settlement Reconciliation Agent
+• Catalog Drift & Marketplace Gap Watchdog
+• Prepared and extensively tested production-ready templates for:
+Sales rehearsals
+• Product demos
+•
+Worked on:
+•
+Failed Delivery Rescue Orchestrator (split into 2 parts)
+· Customer Support Automation
+(Managing customer messages, follow-ups outside working hours, and reducing customer support
+pressure)
+COD Cash & Settlement Reconciliation
+Template Improvements
+• Updated templates with:
+Metadata
+• Template Setup Guide
+"Make It Yours" customization section
+Platform & Integrations
+Built a simple dashboard using Dashboard Builder based on a workflow.
+•
+Added Shopify features:
+• Inventory update
+•
+Get product by ID
+• Started work on the EU project.
+Next Steps
+•
+Continue improving production-ready templates and workflows.
+• Expand dashboard capabilities.
+•
+Continue Shopify enhancements and testing.
+• Proceed with EU project implementation.
+o B D ↑ Z
+Tuesday may 13
+Daily stundup
+Adjust package system:
+Starting plans begin with 1200 credits.
+Launchpad expo prepare pdf
+EU
+Start Learning Rockets
+After eng.ghrabawy make merge I deploeyed
+Wednesday may 14
+Daily stundup
+Learning Rockets
+Show more ▼
+Daily Report - Tuesday, May 13, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Adjusted the package/credits system:
+• Starting plans now begin with 1200 credits.
+• Prepared Launchpad Expo PDF/materials.
+• Continued work on the EU project.
+•
+Started work on Learning Rockets.
+Deployment & Infrastructure
+· After Eng. Elgharabawy completed the merge, successfully handled the deployment process.
+Next Steps
+• Continue Learning Rockets implementation.
+•
+Monitor deployment stability after merge.
+• Continue preparing Dragify for Launchpad Expo.
+Daily Report - Wednesday, May 14, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Continued work on Learning Rockets.
+• Prepared Dragify system for Launchpad Expo.
+Client Follow-ups
+•
+Beshoy:
+• Mentioned he will buy a new phone SIM and get back later ISA.
+•
+Hossam:
+Unable to reach him.
+• Nada:
+• Successfully reached her for the first time.
+• Introduced myself as an engineer at Dragify and discussed the meeting.
+• Planned to send the meeting link via WhatsApp.
+• After a 10-minute delay past meeting time, attempted follow-up again, but the meeting was
+canceled.
+•
+Mohamed:
+Reached before the meeting.
+• Requested rescheduling to 6 PM due to being busy.
+• Approved the new timing, but he did not respond at 6 PM.
+Next Steps
+•
+Continue client follow-ups and meeting coordination.
+• Finalize Dragify preparation for Launchpad Expo.
+• Continue Learning Rockets progress.
+for mondday 1 june
+working on learning rocket project
+follow with mabrouk
+getin zayed account
+meet with eng ahmed abdlerhman sync the hand over of eng
+ahmed
+gharabawy
+Show more
+Daily Report - Monday, June 1, 2026
+Meetings
+• Attended the daily stand-up meeting (extended session).
+• Meeting with Eng. Ahmed Abdelrahman to synchronize and review the handover from Eng.
+Ahmed Elgharabawy.
+Work Completed
+•
+Continued working on the Learning Rockets project.
+•
+Followed up on the Mabrouk project.
+• Obtained access to the Zayed account and reviewed the required setup.
+Coordination & Planning
+• Discussed project status, responsibilities, and next steps during the handover sync.
+•
+Reviewed ongoing tasks and priorities to ensure smooth project continuity.
+Next
+Steps
+• Continue Learning Rockets development.
+• Follow up on Mabrouk project progress and pending requirements.
+• Complete onboarding and setup related to the Zayed account. Continue alignment on infrastructure and pending handover items.
+make week plan
+monday
+tuesday
+learning rocket
+handover for eng ahemed gharabawy
+Show more
+Here's your clean and structured weekly plan based on your notes:
+Weekly Plan — (June Week)
+Monday
+• Learning Rockets project work
+• Follow up on Mabrouk project
+•
+Get/finalize Zayed account access
+• Long daily stand-up / alignment meeting
+Tuesday
+• Continue Learning Rockets project
+• Handover session with Eng. Ahmed Elgharabawy
+• Project alignment and continuation after handover
+• Follow-up on ongoing tasks and blockers
+Wednesday
+• Continue Learning Rockets development
+• Handover completion + stabilization tasks
+• Analysis session with Eng. Kareem:
+•
+Al Agent usage analysis
+Evaluate system behavior and improvements
+Thursday
+• Continue Learning Rockets project
+• Meeting with Learning Rockets team
+• Implementation and feedback handling
+• System refinement based on discussion
+Friday
+•
+Finalize weekly progress on Learning Rockets
+• Internal review and adjustments
+• Prepare Week Recap
+Weekly Focus
+• Learning Rockets end-to-end execution and stabilization
+Smooth engineering handover (Eng. Ahmed Elgharabawy → team continuity)
+•
+• Al Agent usage analysis and optimization
+Maintaining project continuity (Mabrouk + Learning Rockets)
+If you want, I can also turn this into:
+→ Sprint board (Trello format)
+•
+CEO-style roadmap
+•
+or daily task checklist version for execution
+o B D Û ≈ ...
+this for 4 June and 5,6
+work on updated zayed products
+prepared demo calender for hotel project
+meet with eng.kareem
+meet with eng.ahmed abdelrhamen
+Show more ▼
+Daily Report - June 4–6, 2026
+Meetings
+• Meeting with Eng. Kareem
+• Meeting with Eng. Ahmed Abdelrahman
+• Meeting with Learning Rockets team
+• Long weekly recap & alignment discussions
+Work Completed
+Zayed Project
+• Worked on updated Zayed products.
+•
+Rebuilt and improved
+Zayed project structure.
+• Applied optimization improvements across the system.
+Learning Rockets
+Continued active development on the Learning Rockets project.
+• Participated in meetings and requirement discussions.
+Hotel Project
+• Prepared demo calendar workflow for hotel project.
+Shopify Integration
+• Shopify integration work was reviewed and completed (finalized by Eng. Ahmed).
+WhatsApp Bug Fix
+•
+Identified and fixed WhatsApp group issue:
+Problem: phone number not returned correctly in group flows
+Fix applied
+successfully
+Server & Deployment Fixes
+• Fixed .env configuration issue after server upload.
+•
+Created a preventive solution to avoid recurrence in future deployments.
+System Optimization & Billing Update
+•
+Reworked node consumption model based on new pricing system:
+Updated Node Costs
+·
+8 credits:
+Gmail, Slack, Notion, Trello, Jira, Airtable, Custom API, Odoo, ERPNext, Supabase, SubWorkflow,
+ClickUp, Outlook, Azure Storage, Meta Actions
+10-12 credits:
+Google Calendar, Spreadsheet, Google Drive operations, WordPress, Facebook Posting, Instagram
+Posting, PDF Chunker, Shopify, WooCommerce
+Google Drive specifics:
+• List / Upload → 10 credits
+·
+Folder create/delete→ 3 credits
+WhatsApp:
+• Send flows → 8 credits
+• Listen flows → 5 credits
+• Triggers
+/ Light systems (4 credits):
+Google Drive Trigger, Google Calendar Trigger, SQL Trigger, Meta Listener, Outlook Trigger
+•
+Flow
+Queue:
+3 credits
+• Heavy processing (unchanged):
+SQL (15), OCR (15), Query DB (12), BigQuery (12), RSS (4)
+•
+AI/LLM nodes remained unchanged:
+OpenAl, Gemini, Llama, Al Agent, DocSearch, URL Search, WebSearch, etc.
+Next Steps
+·
+Continue Learning Rockets development and refinement.
+• Improve Zayed system stability and performance.
+• Expand optimization across nodes and workflows.
+• Monitor new credit system behavior in production.
+ов
+↑ 2
+***
+in jun 7 worked on learning rocket and work on messenger and
+instagram integration
+Daily Report - Sunday, June 7, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Continued development on the Learning Rockets project.
+•
+Worked on Messenger integration:
+• Development and improvements to integration flow.
+• Testing and validation of core functionality.
+•
+Worked on Instagram integration:
+• Continued implementation and integration enhancements.
+Ensured compatibility with existing workflows.
+Next Steps
+•
+Continue Learning Rockets development.
+• Complete testing and refinement of Messenger integration.
+•
+Continue Instagram integration improvements and validation.
+• Monitor integration stability and address any issues discovered during testing.
+O O D 1 2 ...
+rewrite this week plan
+Sunday
+Youssef Check Instagram and Facebook messages inside Dragify
+Confirm API requirements, required permissions, and message
+receiving flow. Prepare integration logic for Dragify.
+monday
+Youssef WhatsApp Business integration Define setup flow, Meta
+Show more
+Here's a cleaner and more realistic version of your weekly plan:
+Edit
+Weekly Plan
+Sunday
+Meta Messaging Research & Planning
+• Investigate Instagram and Facebook messaging integration inside Dragify.
+• Confirm:
+• Required Meta APIs
+• Required permissions
+•
+Webhook and message receiving flow
+Integration architecture inside Dragify
+• Prepare technical implementation plan.
+Monday
+WhatsApp Business Integration (Day 1)
+• Define:
+• WhatsApp Business setup flow
+• Meta Business
+•
+requirements
+Authentication and connection logic
+• Prepare architecture for Al Agent compatibility.
+Learning Rockets
+Continue development.
+•
+• Identify blockers and dependencies.
+•
+Define deliverables for this week.
+Nikolaos Project
+• Continue project progress.
+• Identify blockers and next milestones.
+Tuesday
+WhatsApp Business Integration (Day 2)
+•
+Continue implementation planning.
+• Validate requirements with Meta documentation.
+• Design workflow integration approach.
+Meta Messaging Integration
+•
+•
+Continue Instagram and Facebook message handling research.
+Validate webhook events and message structures.
+Learning Rockets
+• Continue implementation and testing.
+Nikolaos Project
+• Continue implementation and follow-up.
+Wednesday
+WhatsApp Business Integration (Day 3)
+Finalize integration plan.
+• Prepare implementation tasks.
+•
+Ensure compatibility with Al Agents and workflow execution.
+Meta Messaging Integration
+• Finalize technical requirements and architecture.
+Learning Rockets
+•
+Continue development and testing.
+Nikolaos Project
+•
+Continue development and issue resolution.
+Thursday
+Project Delivery & Review
+•
+Review WhatsApp Business integration findings.
+Review Instagram and Facebook messaging integration findings.
+•
+• Prepare implementation roadmap.
+Learning Rockets
+•
+Review weekly progress.
+• Confirm completed deliverables.
+•
+Prepare next steps.
+Nikolaos Project
+• Review progress and pending tasks.
+•
+Confirm deliverables for next week.
+Stretch Goal (Time Permitting)
+EasyOrder Integration
+•
+Research EasyOrder APIs.
+• Implement functionality similar to Shopify integration:
+•
+Products
+Orders
+• Customers
+• Make EasyOrder usable within workflows and Al Agents.
+This version makes the week easier to track, removes repetition, and clearly separates:
+• WhatsApp Business work
+• Instagram/Facebook messaging research
+• Learning Rockets
+• Nikolaos
+• Optional EasyOrder integration.
+◊ Edit
+Weekly Plan
+Sunday
+for jun8
+1 fixed the .env on the server
+- fixed the error on the server that was don't allow to data appear
+WhatsApp Client Onboarding
+• Support and onboard WhatsApp clients.
+•
+Validate setup requirements and common onboarding issues.
+EasyOrder Integration
+•
+Start EasyOrder integration.
+•
+Investigate available APIs.
+• Begin implementation for:
+• Products
+•
+Orders
+•
+Customers
+Learning Rockets
+•
+Continue project development.
+Review blockers and priorities.
+Monday
+Client Follow-ups
+• Follow up with active clients and pending requests.
+EasyOrder Integration
+•
+Continue implementation.
+• Make EasyOrder usable inside workflows and Al Agents.
+Learning Rockets
+Continue development and testing.
+Nikolaos Project
+Review progress and identify blockers.
+Tuesday
+Instagram Messages Investigation
+•
+Research Instagram messaging integration inside Dragify.
+•
+Confirm:
+•
+Required APIs
+• Required permissions
+•
+Webhook/message receiving flow
+• Integration architecture
+Note: Investigation time is uncertain and may extend beyond one day
+depending on Meta requirements.
+EasyOrder Integration
+•
+Finalize remaining endpoints and testing.
+earning Rockets
+•
+Continue project implementation.
+Nikolaos Project
+•
+Continue progress and follow-up.
+Wednesday
+Odoo E-commerce Integration
+Implement Odoo requests for:
+•
+Products
+• Orders
+• Customers
+• Inventory
+Ensure structure remains consistent with:
+• Shopify
+WooCommerce
+• EasyOrder
+Learning Rockets
+• Continue development.
+• Confirm end-of-week deliverables.
+Nikolaos Project
+Continue implementation and resolve blockers.
+Weekly Goals
+• Complete EasyOrder integration.
+• Investigate and prepare Instagram messaging integration plan.
+•
+Start Odoo e-commerce support.
+Move Learning Rockets project forward and identify deliverables.
+Move Nikolaos project forward and identify blockers.
+This version separates core platform work (EasyOrder, Instagram, Odoo) from client projects
+(Learning Rockets, Nikolaos) and makes the Instagram investigation an explicit risk
+item.
+O B 9 ↑ ≈ ...
+Daily Report - Sunday, June 14, 2026
+Meetings
+• Client meeting.
+jun 14 sunday
+Downloaded and set up AnyDesk.
+Created the weekly work plan and priorities.
+Followed up with the Learning Rocket project.
+Continued working on the EasyOrder
+will Take a breakfast break.
+integration.
+followup with learning rocket
+work on easy order
+Show more ✓
+• Collaboration and sync with Eng. Kareem.
+• Follow-up with Eng. Kareem and Eng. Ahmed El-Bassyouni.
+Work
+Completed
+• Downloaded and configured AnyDesk.
+·
+Created and organized the weekly work plan and priorities.
+• Followed up on the Learning Rockets project.
+Continued development on the EasyOrder integration.
+•
+•
+Started work on Odoo e-commerce integration.
+•
+• Followed up with Zayed and discussed reasons for not currently using Dragify.
+Continued Odoo development and reached approximately 70% completion.
+Project Progress
+Learning Rockets
+• Follow-up and continued project development.
+EasyOrder
+·
+Continued integration work and implementation progress.
+Odoo E-commerce
+•
+Started implementation for:
+•
+Products
+Orders
+• Customers
+• Inventory
+Reached around 70% completion.
+Next Steps
+• Complete Odoo e-commerce integration.
+• Continue EasyOrder development and testing.
+• Continue Learning Rockets implementation.
+• Follow up with Zayed regarding Dragify adoption opportunities.
+•
+Continue
+coordination with Eng. Kareem and Eng. Ahmed El-Bassyouni on pending tasks.
+Continued development of the EasyOrder Node.
+• Successfully completed the EasyOrder Node implementation.
+WhatsApp
+•
+Investigated a WhatsApp issue reported by Eng. Kareem.
+•
+Successfully fixed the discovered WhatsApp bug.
+Learning Rockets
+• Followed up on the Learning Rockets project and continued coordination.
+Code & Deployment
+• Merged completed changes and opened a Pull Request.
+• Under the guidance of Eng. Ahmed Abdelrahman, uploaded the code to the server.
+• Verified deployment and ensured all services were functioning correctly
+after deployment.
+Client
+Follow-ups
+•
+• Started work on the EU project.
+Followed up with Mr. Hossam ElDin.
+Next Steps
+•
+Continue development on the EU project.
+• Monitor EasyOrder integration after deployment.
+Continue Learning Rockets implementation and follow-ups.
+• Address any feedback resulting from the latest deployment and pull request review.
+for 17 jun
+zayed followup and debug the problem but
+still not catch the error
+(contact with client to reconnect to can debug why this happen)
+followup with learning rocket
+test insta and it not work good with ai agent and require remove
+listen
+dot from the node
+week
+recap
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+shopify trigger + add in shopify action customer per id
+research on paymob dashboard for create custome subscribtions
+Show more
+*
+Daily Report - Wednesday, June 17, 2026
+Meetings
+•
+Participated in the weekly recap meeting.
+Work Completed
+Zayed Project
+•
+Followed up with Zayed regarding the reported issue.
+• Investigated and debugged the problem but was unable to reproduce or identify the root cause.
+·
+Contacted the client and requested reconnection/access to continue debugging and determine
+why the issue is occurring.
+Learning Rockets
+• Followed up on the Learning Rockets project and continued progress tracking.
+Instagram & Messenger Integrations
+• Tested Instagram integration with the Al Agent.
+• Identified compatibility issues affecting workflow behavior.
+• Determined that the listener functionality should be removed/adjusted in the current node
+implementation.
+• Fixed and improved both Instagram and Messenger integrations.
+Shopify
+•
+Added and tested Shopify Trigger functionality.
+•
+Added Get Customer by ID action to Shopify integration.
+Paymob Research
+• Researched Paymob dashboard capabilities for implementing custom subscription plans and
+recurring billing management.
+Next Steps
+• Continue debugging the Zayed issue after receiving updated access from the client.
+•
+Further improve Instagram Al Agent compatibility.
+• Continue Learning Rockets development.
+• Evaluate Paymob subscription implementation options.
+•
+Monitor
+Shopify trigger and customer actions after testing.
+add daily stundup
+Daily Report - Wednesday, June 17, 2026
+Meetings
+•
+Attended the Daily Stand-up.
+• Participated in the Weekly Recap Meeting.
+Work Completed
+Zayed Project
+• Followed up with Zayed regarding the reported issue.
+• Investigated and debugged the problem but was unable to identify the root cause.
+• Contacted the client and requested reconnection/access to continue debugging and determine
+why
+the issue is occurring.
+Learning
+Rockets
+• Followed up on the Learning Rockets project and continued progress tracking.
+Instagram & Messenger Integrations
+• Tested Instagram integration with the Al Agent.
+• Identified issues affecting Al Agent compatibility.
+• Determined that the listener functionality should be removed/adjusted in the current
+implementation.
+• Fixed and improved both Instagram and Messenger integrations.
+Shopify
+• Added and tested Shopify Trigger functionality.
+• Added Get Customer by ID action to the Shopify integration.
+Paymob Research
+•
+Researched Paymob dashboard capabilities for implementing custom subscriptions and recurring
+billing management.
+Next Steps
+•
+Continue debugging the Zayed issue once updated access is provided by the client.
+•
+Further improve Instagram Al Agent compatibility.
+• Continue Learning Rockets development and follow-up.
+• Evaluate and implement the most suitable Paymob subscription approach.
+• Monitor Shopify trigger and customer actions after deployment and testing.
+o B D I ≈
+***
+this jun 21 week plan
+Sunday
+Long daily stundup finish at 11am
+Week
+plan
+*

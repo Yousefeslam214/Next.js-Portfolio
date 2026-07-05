@@ -1,0 +1,864 @@
+create report for 25 and 26
+combine
+caalendar isuue resolve
+meeting with the investore
+worked on mabrouk project and add him requirements
+Show more
+Daily Report - Wednesday & Thursday, February 25-26, 2026
+[Dragify Al]
+Meetings
+•
+Attended a meeting with the investor to discuss progress and next steps.
+Work Completed
+• Resolved the Calendar issue and ensured proper functionality after testing.
+• Continued development of the Mabrouk project and added newly requested requirements.
+• Worked on Tamayouz CRM, fixing reported bugs and improving system stability.
+• Followed up with Paymob regarding integration status and approval process.
+Next Steps
+• Continue testing the Calendar updates in different scenarios.
+• Proceed with Mabrouk feature implementation and validation.
+• Monitor Tamayouz CRM performance after bug fixes.
+• Await Paymob response and finalize remaining steps.
+O o P ↑ ≈ ...
+i want create new report for weekend 28-27
+worked on mabrouk project
+followuped with EU and him pay last mile stone and request new milestone
+deepdive learning in how improve development of ai agents and bailyes whatsapp library to carry alot of users
+Show more v
+Daily Report - Friday & Saturday, February 27-28, 2026
+[Dragify Al]
+Work Completed
+• Continued development on the Mabrouk project, implementing new features and improvements.
+•
+Followed up with the EU client regarding the final payment milestone and requested a new milestone.
+· Conducted a deep dive study on improving Al agent performance and scaling the Baileys WhatsApp library to handle a larger number of users.
+•
+Started integrating a new WhatsApp library into Dragify, implementation in progress.
+Next Steps
+Continue development and testing for the Mabrouk project.
+· Follow up with the EU client regarding milestone approval.
+• Complete WhatsApp library integration and ensure stability for high user volume.
+• Apply learnings from Al agent optimization to ongoing and future projects.
+ال report دهه للحجات الي عملتها في ال weekend
+مبعتهوش علي slack علشان ميضغطش علي الناس و خصوصا آن دهه شغل
+حصل بمزاجي يعني
+تمام فهمت ©
+ممكن نكتب التقرير بشكل خاص بك وبأسلوب شخصي بحيث يكون مجرد ملاحظة داخلية بدون ما يظهر على Slack أو يضغط على الفريق، يعني زي سجل عمل شخصي:
+Weekend Work Log — Friday & Saturday, February 27-28, 2026 [Private / Personal Notes]
+اشتغلت على Mabrouk project وأضافت تحسينات ووظائف جديدة. تابعت مع EU client بخصوص آخر milestone وطلبت milestone جدید.
+عملت Deep dive لتعلم كيفية تحسين أداء Al agents وكيفية توسيع استخدام مكتبة Baileys WhatsApp للتعامل مع عدد أكبر من المستخدمين. بدأت أضيف WhatsApp library جديدة في Dragify الشغل لسه مستمر ومش مكتمل. ملاحظة: ده كله شغل حصل بمزاجي الشخصي، مش أرسلته على Slack عشان ميضغطش على حد والفريق مش محتاج يعرف كل التفاصيل دي.
+•
+لو تحب أقدر أصبغ لك نسخة أكثر مختصرة جدًا زي bullet points عشان تحطها في دفتر الملاحظات أو Notion
+شخصي بدون أي تفاصيل زيادة. تحب أعملها؟
+create report for sunday 1 mar
+mabrouk development and followup
+paymob followup
+continue whatsapp node development daily stundup
+Daily Report - Sunday, March 1, 2026
+[Dragify Al]
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Continued development on the Mabrouk project and followed up on progress and requirements.
+• Followed up with Paymob regarding integration and approval status.
+• Continued development of the WhatsApp node, focusing on improvements and stability.
+Next Steps
+• Proceed with Mabrouk feature implementation and testing.
+• Finalize WhatsApp node development and begin full testing.
+• Await Paymob confirmation and complete remaining integration steps.
+O O D 1 2 ...
+add in next steps
+tamiyouz EU
+deepdive in ai agent to improve ux of them
+Daily Report - Sunday, March 1, 2026
+[Dragify Al]
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Continued development on the Mabrouk project and followed up on progress and requirements.
+• Followed up with Paymob regarding integration and approval status.
+• Continued development of the WhatsApp node, focusing on improvements and stability.
+Next Steps
+• Continue development and testing for Mabrouk.
+• Follow up with Tamiyouz on pending tasks and updates.
+•
+Follow up with EU regarding project status and next milestones.
+• Continue deep dive into Al agent optimization to improve UX and response quality.
+Finalize WhatsApp node development and perform full testing.
+• Await Paymob confirmation and complete remaining integration steps.
+for 2 feb
+finished whatsapp node on dragify
+follow up with old customer who was need to integrate whatsapp package put what he asked is very difficult and i don't know are our packae provide that or kow i will test this in next days
+started working on tamiyouz and implement to them meta face and insta like whatsapp
+Daily Report - Monday, February 2, 2026
+[Dragify Al]
+Work Completed
+• Finished the WhatsApp node integration on Dragify.
+•
+Followed up with an old customer who requested a complex WhatsApp package integration.
+• The requested feature is technically challenging.
+• Need to verify whether our current package supports it.
+• Planned to test and validate this in the coming days.
+• Started working on Tamiyouz integration.
+• Began implementing Meta (Facebook & Instagram) messaging similar to the WhatsApp integration flow.
+Next Steps
+• Test the requested WhatsApp feature to confirm feasibility within our package.
+• Continue Meta integration for Tamiyouz.
+• Perform stability testing for the new WhatsApp node on Dragify.
+O O D 1 2 ...
+add meeting of realestate customer put him not getin
+Daily Report - Monday, February 2, 2026
+[Dragify Al]
+Meetings
+• Meeting with a real estate customer, but the discussion did not progress as expected due to unclear alignment on requirements.
+Work Completed
+•
+Finished the WhatsApp node integration on Dragify.
+• Followed up with an old customer who requested a complex WhatsApp package integration.
+• The requested feature is technically challenging.
+• Need to verify whether our current package supports it.
+Planned to test and validate this in the coming days.
+•
+Started working on Tamiyouz integration.
+• Began implementing Meta (Facebook & Instagram) messaging similar to the WhatsApp integration flow.
+Next Steps
+• Test the requested WhatsApp feature to confirm feasibility within our package.
+• Continue Meta integration for Tamiyouz.
+• Perform stability testing for the new WhatsApp node on Dragify.
+O B
+Meeting with a real estate customer, but the discussion did not progress as expected due to unclear alignment on requirements.
+no he don't attend the meet
+Got it here's the corrected version:
+Daily Report - Monday, February 2, 2026
+[Dragify Al]
+Meetings
+•
+Scheduled meeting with a real estate customer, but the client did not attend.
+Work Completed
+•
+Finished the WhatsApp node integration on Dragify.
+Followed up with an old customer who requested a complex WhatsApp package integration.
+• The requested feature is technically challenging.
+• Need to verify whether our current package supports it.
+• Planned to test and validate this in the coming days.
+Started working on Tamiyouz integration.
+• Began implementing Meta (Facebook & Instagram) messaging similar to the WhatsApp integration flow.
+Next Steps
+• Test the requested WhatsApp feature to confirm feasibility within our package.
+• Continue Meta integration for Tamiyouz.
+• Perform stability testing for the new WhatsApp node on Dragify.
+o B D ↑ Z
+3 mar
+*
+*
+*
+follow up with paymob and made edits on landing page and console dragify that paymob required
+*
+continue tamiyouz development
+folllow up with my clients (comminication)
+Show more
+Daily Report - Tuesday, March 3, 2026
+[Dragify Al]
+Work Completed
+• Followed up with Paymob and implemented the required edits on the Dragify landing page and
+console to meet approval requirements.
+Continued development on the Tamiyouz project.
+• Followed up with clients to maintain communication and provide updates.
+• Finished Mabrouk Telegram agents and implemented the requested edits.
+• Uploaded the new WhatsApp library, tested it successfully, and confirmed it works.
+• Minor edits and refinements still pending.
+Next Steps
+• Finalize remaining adjustments on the new WhatsApp library.
+• Continue Tamiyouz feature development and testing.
+• Await Paymob confirmation after applying required updates.
+• Monitor Mabrouk Telegram agents after recent changes.
+4 mar
+finished messenger with tamiyouz (pending insta)
+attend 3 meeting with different clients and investors and searched on them before meeting to recommend to them project and help in upselling
+edit in whatsapp library and landing page
+Show more
+Daily Report - Wednesday, March 4, 2026
+[Dragify Al]
+Meetings
+• Attended the daily stand-up meeting.
+• Attended 3 meetings with different clients and investors.
+• Conducted prior research on each before the meetings.
+Recommended suitable projects and explored upselling opportunities.
+Work Completed
+• Finished Messenger integration for Tamiyouz (Instagram integration still pending).
+·
+•
+Made additional edits to the WhatsApp library and updated the landing page where needed.
+Discovered and explored ClowdBot, studied its capabilities and limitations, and found its features
+impressive.
+Next Steps
+• Complete Instagram integration for Tamiyouz.
+• Finalize WhatsApp library refinements.
+•
+Follow up with clients and investors from the recent meetings.
+• Analyze how ClowdBot insights can support future product improvements.
+o B 9 ↑ ≈
+Daily Report - Wednesday, March 4, 2026
+add in next steps
+start eu user management implemintation
+[Dragify Al]
+Meetings
+• Attended the daily stand-up meeting.
+•
+Attended 3 meetings with different clients and investors.
+•
+Conducted prior research on each before the meetings.
+Recommended suitable projects and explored upselling opportunities.
+Work Completed
+•
+Finished Messenger integration for Tamiyouz (Instagram integration still pending).
+• Made additional edits to the WhatsApp library and updated the landing page where needed.
+•
+Discovered and explored ClowdBot, studied its capabilities and limitations, and found its features
+impressive.
+Next Steps
+• Complete Instagram integration for Tamiyouz.
+• Finalize WhatsApp library refinements.
+•
+Follow up with clients and investors from the recent meetings.
+• Start EU User Management implementation.
+• Analyze how ClowdBot insights can support future product improvements.
+Daily Report - Wednesday, March 4, 2026
+[Dragify Al]
+add in next steps upload mabrouk server
+Meetings
+• Attended the daily stand-up meeting.
+• Attended 3 meetings with different clients and investors.
+• Conducted prior research on each before the meetings.
+Recommended suitable projects and explored upselling opportunities.
+Work Completed
+• Finished Messenger integration for Tamiyouz (Instagram integration still pending).
+• Made additional edits to the WhatsApp library and updated the landing page where needed.
+•
+Discovered and explored Clowd Bot, studied its capabilities and limitations, and found its features
+impressive.
+Next Steps
+• Complete Instagram integration for Tamiyouz.
+• Finalize WhatsApp library refinements.
+•
+Follow up with clients and investors from the recent meetings.
+Start EU User Management implementation.
+• Upload and deploy the Mabrouk server.
+• Analyze how Clowd Bot insights can support future product improvements.
+O 6 9 12
+Stopped thinking >
+tell me all things i made from 5 mar to 23 feb
+Here is a clear timeline of everything you worked on from Feb 23 → Mar 5 based on the reports you
+created.
+Work Summary (Feb 23 Mar 5)
+-
+Feb 23
+Work
+• Followed up with Mabrouk regarding project progress.
+•
+Continued development of the Mabrouk system.
+•
+Followed up with Paymob.
+• Followed up with Tamiyouz.
+Followed up with EU project to receive the last payment milestone.
+Feb 24
+Meetings
+Attended daily stand-up.
+Work
+• Followed up with Tamiyouz and Mabrouk.
+•
+Continued development on the Mabrouk project.
+Edited Dragify landing page to meet Paymob approval requirements.
+• Updated Admin Dashboard by adding all required user details.
+Feb 25 - Feb 26
+Work
+Resolved calendar-related issues.
+• Attended meeting with an investor.
+• Continued working on Mabrouk project and added new requirements.
+• Worked on Tamiyouz CRM and fixed several bugs.
+•
+Followed up with Paymob.
+Feb 27 - Feb 28 (Weekend Work)
+(Personal work, not sent on Slack)
+Work
+•
+Continued development on Mabrouk project.
+• Followed up with EU client:
+•
+Client paid the last milestone.
+• Requested a new milestone.
+•
+Deep dive learning on:
+•
+Al Agents development improvements
+• Baileys WhatsApp library scaling for many users
+Started working on integrating a new WhatsApp library into Dragify (not finished yet).
+Mar 1
+Meetings
+•
+Attended daily stand-up.
+Work
+•
+Continued Mabrouk project development and follow-up.
+•
+Followed up with Paymob.
+•
+Continued development of the WhatsApp node.
+Mar 2
+Work
+•
+Finished WhatsApp Node for Dragify.
+•
+Followed up with an old customer requesting a complex WhatsApp integration:
+•
+Requirements are difficult.
+Need to test if Dragify package supports them.
+Started Tamiyouz Meta integrations:
+•
+Facebook
+• Instagram
+Similar to WhatsApp integration.
+Scheduled meeting with a real estate client, but they did not attend.
+Mar 3
+Work
+Followed up with Paymob and made required edits:
+• Dragify landing page
+•
+Dragify console
+Continued Tamiyouz development.
+• Followed up with clients (communication).
+Finished Mabrouk Telegram Agents and received requested edits.
+•
+• Uploaded new WhatsApp library and tested it:
+Works
+successfully
+Still requires minor adjustments.
+Mar 4
+Meetings
+•
+Attended daily stand-up.
+Attended 3 meetings with clients and investors:
+• Conducted research before meetings
+• Recommended projects
+• Helped with upselling opportunities
+Work
+·
+Finished Messenger integration for Tamiyouz (Instagram pending).
+•
+Edited WhatsApp library and landing page.
+·
+Discovered and studied ClowdBot:
+• Explored its capabilities
+• Analyzed its limitations.
+Planned Next Steps (From Recent Reports)
+• Finish Instagram integration for Tamiyouz.
+• Upload and deploy Mabrouk server.
+•
+Start EU User Management implementation.
+• Continue improving WhatsApp library stability.
+• Deep dive
+into
+Al
+agents to improve UX.
+•
+Continue client and Paymob follow-ups.
+✔ In summary (23 Feb→ 4 Mar) you worked mainly on:
+•
+Mabrouk system development
+• Tamiyouz CRM & integrations
+• Dragify WhatsApp infrastructure
+Meta integrations (Messenger / Instagram)
+Client communication & investor meetings
+• Paymob approval & integration
+•
+Al agent research & WhatsApp scaling
+If you want, I can also convert this into a clean weekly performance summary for your manager (very
+professional format) - it will look much stronger than daily reports.
+O O D 1 2 ...
+Followed up with EU client:
+Client paid the last milestone.
+Requested a new milestone.
+Continued Mabrouk project development and follow-up.
+Followed up with Paymob.
+Show more
+Here is your update written in a clean report format and easy professional English:
+Work Updates
+• Followed up with the EU client:
+•
+The client paid the last milestone.
+• Requested to create a new milestone for the next phase.
+Continued
+development and follow-up on the Mabrouk project.
+Followed up with Paymob regarding the integration process.
+•
+• Continued development
+of the WhatsApp Node.
+Finished Tamiyouz Meta integrations, including:
+•
+Facebook
+• Instagram
+•
+Improved the Al Agent behavior by:
+Preventing duplicate responses
+•
+Adding a 10-second wait mechanism before processing messages to ensure better response
+handling.
+If you want, I can also make a very strong weekly summary (looks like senior engineer report) from
+all your work - which is much better for managers than daily notes.
+for 5 mar
+delivered to tamiyouz
+- insta channal
+- facebook channal
+- can send msgs throw all platforms
+- made queue for ai agent that await and collect incoming msg and
+replay on them on time
+Show more
+Daily Report - Wednesday, March 5, 2026
+Tasks Completed
+Tamiyouz Delivery
+• Delivered the Instagram channel integration.
+• Delivered the Facebook channel integration.
+• Enabled the ability to send messages across all connected platforms.
+• Implemented a message queue system for the Al Agent to collect incoming messages, wait
+briefly, and respond at the correct time to avoid duplicate or fragmented replies.
+Follow-up
+•
+Followed up with Paymob regarding the integration process.
+o B D 1 2 ...
+Daily Report - Thursday, March 5, 2026
+Meetings
+•
+Attended the daily stand-up meeting.
+•
+Attended the weekly recap meeting.
+Tasks Completed
+Tamiyouz Delivery
+• Delivered the Instagram channel integration.
+• Delivered the Facebook channel integration.
+add in meeting daily stundaub and weekly recap
+and 5 mar is thursday
+*
+• Enabled the ability to send messages across all connected platforms.
+• Implemented a message queue system for the Al Agent to collect incoming messages, wait
+briefly, and respond at the correct time to avoid duplicate or fragmented replies.
+Follow-up
+Followed up with Paymob regarding the integration process.
+*
+ов 1.
+***
+Daily Report - [Date]
+Meetings
+Attended the daily stand-up meeting.
+• Prepared the weekly recap.
+attend daily standup meeting and prepared weekly recap
+send offer to Echelon
+meeting with mabrouk and followup
+followup with learning rockets
+start in whatsapp node
+Work Completed
+·
+Sent an offer to Echelon.
+• Had a meeting with Mabrouk and followed up on project progress.
+• Followed up with Learning Rockets.
+• Started working on the WhatsApp Node.
+Next Steps
+•
+Continue development of the WhatsApp Node.
+• Follow up with Echelon regarding the submitted offer.
+• Continue coordination with Mabrouk and Learning Rockets.
+i today at 9 mar
+fixed whatsapp node and made autmation test on it and try it on
+workflow
+build workflow of omni channals and send msg with issuses
+detected
+attend meet for workflows
+followup with eu and paymob
+start study how execute facebook posting node
+Show more
+Daily Report - Monday, March 9, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Attended a meeting about workflows and discussed improvements and use cases.
+Work
+Completed
+• Fixed issues in the WhatsApp Node.
+• Created automation tests for the WhatsApp Node and tested it within workflows.
+Built a workflow for omni-channel messaging and tested sending messages across channels
+(some issues detected and under review).
+• Followed up with EU client and Paymob regarding ongoing updates.
+Started studying how to implement and execute a Facebook posting node.
+Next Steps
+• Resolve issues discovered in the omni-channel workflow.
+•
+Continue development of the Facebook posting node.
+•
+Monitor WhatsApp Node stability after fixes and tests.
+•
+Continue follow-ups with EU and Paymob.
+o B D 1 2 ...
+Daily Report - [Today's Date]
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Echelon company.
+• Team meeting to discuss the weekly plan and priorities.
+today
+follow up with paymob
+meeting with echoden company
+metting with team to discuss week plan
+stundup daily meet
+finish facebook posting node on dragify
+Work
+Completed
+• Followed up with Paymob regarding integration updates.
+• Finished development of the Facebook Posting Node on Dragify.
+Next
+Steps
+• Test the Facebook Posting Node in different workflows.
+•
+Continue follow-up with Paymob until final approval.
+• Implement improvements based on the weekly plan discussion.
+Daily Report - Tuesday, March 10, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Echelon company.
+• Team meeting to discuss the weekly plan and priorities.
+Work
+Completed
+• Followed up with Paymob regarding integration updates.
+• Finished development of the Facebook Posting Node on Dragify.
+Next
+Steps
+• Test the Facebook Posting Node in different workflows.
+•
+Continue follow-up with Paymob until final approval.
+• Implement improvements based on the weekly plan discussion.
+Daily Report - Wednesday, March 11, 2026
+Meetings
+• Attended the daily stand-up meeting.
+i today make
+daily stundup
+today is 10 mar
+edits on tamiyouz
+updated nån for mabrouk
+start devlopment on mabrouk project
+follow up with eu & startup gates
+Work Completed
+• Made edits and improvements on the Tamiyouz project.
+• Updated nån instance for Mabrouk to ensure it
+runs with the latest updates.
+• Started development work on the Mabrouk project.
+•
+Followed up with EU client and Startup Gates regarding ongoing communication and updates.
+Next Steps
+•
+Continue development on the Mabrouk project.
+• Monitor Tamiyouz updates after recent edits.
+• Continue follow-ups with EU and Startup Gates.
+< 2/2 > L P ↑ ≈
+for 12 & 13
+studid how add posting node for linkedin & insta
+daily staundup
+weekly recap
+follow up with my clients
+Daily Report - Thursday & Friday, March 12-13, 2026
+Meetings
+• Attended the daily stand-up meetings.
+• Attended the weekly recap meeting.
+Work Completed
+• Studied how to implement posting nodes for LinkedIn and Instagram.
+• Followed up with clients regarding ongoing projects and communication.
+Next
+Steps
+•
+Start implementing the LinkedIn and Instagram posting nodes.
+• Continue client follow-ups and support.
+the week plan for 15, 16, 17,18
+but note that 19 is holiday because of aid Public holidays (March 19,
+2026)
+sunday
+tamyouz connect messenger & insta
+tamyouz contract
+paymbo followup
+Show more
+Here is your clean and organized weekly plan for March 15-18, 2026 with the holiday on March 19
+noted.
+Weekly Plan - March 15-18, 2026
+—
+(Note: March 19 is a public holiday for Eid)
+Sunday March 15
+Tamiyouz
+• Connect Messenger & Instagram channels.
+·
+Work on Tamiyouz contract preparation.
+Dragify
+•
+Start adding Instagram integration to Dragify.
+Follow-ups
+•
+Follow up with Paymob.
+Meetings
+• Meeting with Eng. Helhal to define the project plan.
+Monday - March 16
+Instagram
+•
+Development
+Finish Instagram posting development.
+Resolve issues with Instagram Sender.
+• Improve Meta-related nodes, including:
+•
+Instagram Sender
+•
+Instagram Listener
+•
+Messenger Sender
+• Messenger Listener
+Helhal Project
+• Start working on the Helhal project.
+Follow-ups
+Follow up with EU client.
+Tuesday March 17
+—
+Helhal
+Project
+• Complete Helhal WhatsApp integration.
+Build the Knowledge Base.
+Wednesday
+Workflow
+March 18
+Development
+• Build and test workflows.
+Testing Targets (Priority)
+• Gmail
+• RSS
+• SQL
+•
+SQL Trigger
+• Google Calendar
+• WhatsApp Listener
+•
+WhatsApp Sender
+Gmail
+Trigger
+• Google Drive Trigger
+• Calendar Trigger
+•
+Outlook Calendar Trigger
+(Note: It may not be possible to test all nodes, but priority will be given to the most important ones.)
+Additional Nodes to Test (If Time Allows)
+Al / Data
+• Llama
+PDF Chunker
+•
+Al Agent
+•
+Speech to Text
+• Text to Speech
+• URL + Search
+• RAG / Multi-RAG
+•
+Knowledge Bases
+Automation / Integrations
+• Webhook
+• Trello
+Slack
+· Twilio SMS
+• ERPNext
+• File Uploader
+•
+Gemini
+• OCR
+• Wait
+• Start
+Databases / APIs
+• BigQuery
+•
+Airtable
+• Supabase
+Custom API
+• WhatsApp Sender
+• Odoo
+If you want, I can also help you turn this into a very strong engineering sprint plan (the way senior
+engineers write it for managers) so it looks much more professional and strategic.
+O B D 1 2 ...
+Daily Report - Sunday, March 15, 2026
+follow up with paymob
+daily stundup
+tamyouz meeting
+insta posting node
+create tamyouz contract
+edited on insta connection put still need work
+Show more
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Tamiyouz team to discuss updates and next steps.
+• Meeting with Eng. Helhal to define the project plan and requirements.
+Work
+Completed
+• Followed up with Paymob regarding integration updates.
+• Worked on Instagram Posting Node development.
+•
+Edited and improved the Instagram connection, though it still requires additional work.
+•
+Created and prepared the Tamiyouz contract.
+• Followed up with the EU client.
+•
+Continued work on Tamiyouz integrations, including:
+• Connecting Messenger channel
+•
+Connecting Instagram channel
+Next
+Steps
+• Finalize the Instagram connection and posting node.
+• Continue Tamiyouz channel integration and testing.
+• Proceed with tasks planned for the Helhal project.
+o B D ↑ Z
+...
+today mar 16
+improve posting / msgs on insta but i face small bugs don't
+resoveled yet
+build the workfolw which asked to build
+meeting with learning rocket
+• Resolved issues with Instagram Sender.
+attend
+daily
+recap
+attend at 3 pm meeting with eng
+next move eu followup,learnig rocket study
+Show more ▾
+Daily Report - Monday, March 16, 2026
+Meetings
+• Attended the daily recap meeting.
+• Meeting with Learning Rocket.
+• Attended the 3:00 PM meeting with the engineering team.
+Work
+Completed
+• Improved Instagram posting and messaging functionality.
+• Encountered some small bugs that still need to be resolved.
+• Built the requested workflow.
+• Resolved several issues related to the Instagram Sender.
+•
+Continued improving Messenger and Facebook connection.
+Next Steps
+•
+Follow up with the EU client.
+• Continue studying Learning Rocket requirements.
+Fix the remaining bugs in the Instagram posting nodes.
+•
+Further improve Messenger/Facebook integration stability.
+•
+Create documentation for Meta integrations (Instagram, Messenger, Facebook).
+·
+Finish Tamiyouz Meta integration.
+O o 9 ↑ ≈
+Daily Report - Monday, March 16, 2026
+Meetings
+• Attended the daily recap meeting.
+• Meeting with Learning Rocket.
+• Attended the 3:00 PM meeting with the engineering team.
+Work
+Completed
+• Improved Instagram posting and messaging functionality.
+• Encountered some small bugs that still need to be resolved.
+• Built the requested workflow.
+• Resolved several issues related to the Instagram Sender.
+•
+Continued improving Messenger and Facebook connection.
+Next Steps
+•
+Follow up with
+the EU client.
+• Continue studying Learning Rocket requirements.
+Fix the remaining bugs in the Instagram posting nodes.
+•
+Further improve Messenger/Facebook integration stability.
+add in next step helhal project
+Create documentation for Meta integrations (Instagram, Messenger, Facebook).
+•
+• Finish Tamiyouz Meta integration.
+• Start/continue work on the Helhal project.
+today is 17 mar
+finish
+hehal
+whatsapp
+get meet with helhal /
+meet with tamiyouz to connect messenger and succesifly
+connected it
+eu follow up / tamiyouz follow up/david dubai follow up
+Show more
+Daily Report - Tuesday, March 17, 2026
+Meetings
+•
+Attended the daily stand-up
+meeting.
+• Meeting with Helhal to discuss progress and next steps.
+• Meeting with Tamiyouz to work on integrations.
+Work
+Completed
+• Finished Helhal WhatsApp integration.
+• Successfully connected Messenger for Tamiyouz.
+• Followed up with:
+⚫ EU client
+• Tamiyouz
+•
+David (Dubai)
+• Made edits on Tamiyouz system and fixed a small bug.
+Next
+Steps
+• Continue Tamiyouz integration (Instagram + remaining features).
+• Monitor Helhal WhatsApp performance after completion.
+•
+Continue
+client follow-ups and support.
+in next steps
+Continue studying Learning Rocket requirements.
+Fix the remaining bugs in the Instagram posting nodes.
+Further improve Messenger/Facebook integration stability.
+Create documentation for Meta integrations (Instagram,
+Messenger, Facebook)
+and landing page edits
+Daily Report - Tuesday, March 17, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Helhal to discuss progress and next steps.
+• Meeting with Tamiyouz to work on integrations.
+Work Completed
+•
+Finished Helhal WhatsApp integration.
+•
+Successfully connected Messenger for Tamiyouz.
+•
+Followed up with:
+⚫ EU client
+• Tamiyouz
+•
+David (Dubai)
+• Made edits on Tamiyouz system and fixed a small bug.
+Next Steps
+• Continue studying Learning
+Rocket requirements.
+• Fix the remaining bugs in the Instagram posting nodes.
+•
+Further
+improve Messenger/Facebook integration stability.
+• Create documentation for
+Meta integrations (Instagram, Messenger, Facebook).
+• Continue landing page edits
+and
+improvements.
+o B D Û ≈
+...
+today 18 mar
+follow up with eu & daivid dubai && paymob
+pushed all edits i made on dragify
+create video for posting insta
+tested & confirmed gmail /rss/insta msg, posting/ messenger
+Show more
+Daily Report - Wednesday, March 18, 2026
+Work
+Completed
+• Followed up with:
+⚫ EU client
+•
+David (Dubai)
+*
+*

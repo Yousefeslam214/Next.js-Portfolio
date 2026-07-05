@@ -1,0 +1,48 @@
+
+E-LUITITICILE GULUITIGUUIT WVUI NIIUWVS
+Client follow-ups and project coordination
+This version makes Learning Rockets the primary focus throughout the week, with logistics, Paymob, and workflow automation as secondary goals.
+o B D Û ≈...
+Sources
+jun 21
+Sunday
+Long week plan meet (until 11:00 AM)
+Created and organize the weekly plan
+Helped eng.kareem with him queries
+Followed up with Learning Rockets & zayed & masar auto
+Started Paymob work and subscription system
+Client meeting / follow-up:
+again
+Show more v
+them don't respond
+Daily Report - Sunday, June 21, 2026
+Meetings
+• Attended long weekly planning meeting (until 11:00 AM).
+• Meeting with Zayed.
+• Client follow-ups with I joj (no response received).
+• Collaboration/help session with Eng. Kareem regarding queries.
+Work Completed
+Planning & Coordination
+•
+Created and organized the weekly plan.
+• Aligned priorities for ongoing projects (Learning Rockets, Zayed, Paymob, Masar Auto).
+Learning Rockets & Projects
+• Followed up on:
+• Learning Rockets project
+• Zayed project
+• Masar Auto project
+Paymob
+• Started working on Paymob subscription system implementation.
+Deployment & Server
+• Uploaded latest code to the server.
+Verified deployment stability and ensured system is running correctly.
+• Prepared environment for client review at 7 PM.
+Next Steps
+•
+Continue Paymob subscription system development.
+•
+.if needed معرض الأتوبيسات) Follow up again with client
+• Continue Learning Rockets progress.
+• Monitor server deployment after recent updates.
+Continue Zaved proiect stabilization and sunnort
+*

@@ -1,0 +1,950 @@
+•
+Paymob
+Pushed all recent edits and updates to Dragify.
+Created a video for Instagram posting (demo / explanation).
+Performed testing and confirmed functionality for:
+• Gmail
+• RSS
+• Instagram (messages & posting)
+• Messenger (messages & posting)
+• WhatsApp (listener & sender)
+• Google Drive Trigger
+• Slack Trigger
+Next Steps
+• Continue testing remaining nodes and workflows.
+• Monitor system stability after recent updates.
+• Follow up with clients based on tested features.
+o B D ↑ Z
+***
+Daily Report - Wednesday, March 18, 2026
+Work Completed
+• Followed up with:
+·
+• EU client
+• David (Dubai)
+• Paymob
+Pushed all recent edits and updates to Dragify.
+Created a video for Instagram posting (demo / explanation).
+Performed testing and confirmed functionality for:
+• Gmail
+• RSS
+• Instagram (messages & posting)
+• Messenger (messages & posting)
+WhatsApp (listener & sender)
+• Google Drive Trigger
+Slack Trigger
+•
+Llama
+• Speech to Text
+·
+URL + Search
+•
+Airtable
+• Supabase
+Wait
+Next Steps
+• Continue testing remaining nodes and workflows.
+• Monitor system stability after recent updates.
+• Follow up with clients based on tested features.
+Llamaadd thos is good
+Speech to Text
+URL + Search Airtable
+Supabase Wait
+Daily Report - Wednesday, March 18, 2026
+Work Completed
+• Followed up with:
+EU client
+David (Dubai)
+Paymob
+• Pushed all recent edits and updates to Dragify.
+• Created a video for Instagram posting (demo / explanation).
+• Performed testing and confirmed functionality for: Gmail
+Show more ▼
+Daily Report - Wednesday, March 18, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Attended the weekly recap meeting.
+Work Completed
+• Followed up with:
+• EU client
+• David (Dubai)
+• Paymob
+Pushed all recent edits and updates to Dragify.
+• Created a video for Instagram posting (demo / explanation).
+• Performed testing and confirmed functionality for:
+· Gmail
+• RSS
+• Instagram (messages & posting)
+• Messenger (messages & posting)
+·
+WhatsApp (listener & sender)
+• Google Drive Trigger
+•
+Slack Trigger
+Llama
+•
+Speech to Text
+URL + Search
+• Airtable
+• Supabase
+• Wait
+Next Steps
+• Continue testing remaining nodes and workflows.
+• Monitor system stability after recent updates.
+• Follow up with clients based on tested features.
+what i do today
+Tuesday
+DevOps: CI/CD action plan
+Engineers meeting: sync on projects, blockers, priorities
+Projects follow-up
+(Learning Rockets) study
+Create Shopify node plan
+Testing Nodes:
+Meta Listener
+Messenger Sender
+Show more ▾
+Daily Report - Tuesday, [Date]
+Meetings
+• Attended engineers meeting to sync on projects, blockers, and priorities.
+Work Completed
+• Worked on DevOps CI/CD action plan.
+• Followed up on ongoing projects and tracked progress.
+• Continued studying Learning Rockets requirements.
+• Created a plan for Shopify Node integration.
+•
+Tested the following nodes:
+• Meta Listener
+• Messenger Sender
+• Facebook Posting
+Made edits and improvements on the landing page.
+Next Steps
+• Continue CI/CD implementation.
+• Start development of Shopify Node.
+• Expand testing for additional nodes.
+• Continue Learning Rockets study and apply findings.
+today is 25 mar
+i attend daily stundup
+Implement Shopify function blocks:
+Normal Functions (API Calls / Actions):
+Create Order, Get Orders, Get Order by ID, Update Order
+Create Customer, Get Customers, Update Customer
+Create Product, Get Products, Update Product Testing Nodes:
+WhatsApp Listener
+Show more
+Daily Report - Wednesday, March 25, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Tamiyouz.
+• Meeting with Learning Rockets to discuss insights and questions.
+Work Completed
+• Implemented Shopify function blocks, including:
+Normal Functions (API Actions):
+• Create Order, Get Orders, Get Order by ID, Update Order
+• Create Customer, Get Customers, Update Customer
+• Create Product, Get Products, Update Product
+Performed testing on:
+•
+WhatsApp Listener
+• WhatsApp Sender
+• Worked on Tamiyouz edits and improvements.
+• Continued studying Learning Rockets requirements.
+• Worked on Shopify CLI setup and usage.
+Follow-ups
+Followed up with:
+•
+• Mabrouk
+• EU client
+David
+Next Steps
+• Continue development and testing of Shopify integration.
+• Expand testing coverage for WhatsApp nodes.
+• Apply Learning Rockets insights into development.
+• Continue Tamiyouz improvements and fixes.
+o B D I ≈ ...
+in next steps put learning rockets requrmints study and build contract
+Thursday
+Continue Shopify implementation: finish remaining
+normal/webhook functions
+Build workflow using Shopify node
+Testing Nodes:
+Google Calendar
+Calendar Trigger
+Show more
+Daily Report - Wednesday, March 25, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Meeting with Tamiyouz.
+• Meeting with Learning Rockets to discuss insights and questions.
+Work Completed
+• Implemented Shopify function blocks, including:
+Normal Functions (API Actions):
+• Create Order, Get Orders, Get Order by ID, Update Order
+• Create Customer, Get Customers, Update Customer
+• Create Product, Get Products, Update Product
+Performed testing on:
+•
+WhatsApp Listener
+• WhatsApp Sender
+• Worked on Tamiyouz edits and improvements.
+• Continued studying Learning Rockets requirements.
+• Worked on Shopify CLI setup and usage.
+Follow-ups
+•
+Followed up with:
+• Mabrouk
+• EU client
+David
+Next Steps
+•
+Continue studying Learning Rockets requirements and build the contract.
+Thursday Plan
+•
+Continue Shopify implementation: finish remaining normal & webhook functions. Build a workflow using Shopify node.
+Testing Nodes:
+• Google Calendar
+•
+Calendar Trigger
+• Google Drive Trigger
+• SQL
+• SQL Trigger
+• RSS
+today 26 mar
+Thursday
+Continue Shopify implementation: finish remaining normal/webhook functions
+Build workflow using Shopify node
+finished ai agent testing
+uploaded shopify documentation
+next steps
+Show more ▾
+Daily Report - Thursday, March 26, 2026
+Work Completed
+•
+Continued Shopify implementation:
+• Finished remaining normal functions and webhook functions.
+• Built a workflow using the Shopify Node.
+• Completed Al Agent testing and confirmed functionality.
+• Uploaded Shopify documentation.
+Next Steps
+•
+Perform stress testing on all custom nodes.
+•
+Start CI/CD implementation (DevOps Plan - Phase 1).
+• Develop Shopify Webhook Node.
+Build Shopify workflows for Yousra.
+Continue follow-ups with clients and ongoing projects.
+today is 28 mar
+i added
+improved ai agent integration
+Insta Posting
+improved the node up to 2000 mixed request WordPress Show more ▾
+Daily Report - Saturday, March 28, 2026
+Work Completed
+• Improved Al Agent integration with:
+•
+Instagram Posting
+•
+Optimized and enhanced nodes for better performance under load:
+WordPress Node up to 2000 mixed requests
+·
+RSS Node up to 500 mixed requests
+• SQL Node → up to 500 mixed requests
+•
+SQL Trigger Node → up to 500 mixed requests
+Improved node behavior and ensured smooth compatibility with Al Agent workflows.
+•
+Added Al Agent schema support for:
+•
+Shopify Node
+Next Steps
+•
+Continue stress testing across all nodes to ensure stability under high load.
+• Expand Al Agent compatibility across remaining integrations.
+•
+Monitor performance and optimize bottlenecks if detected.
+Daily Report - Saturday, March 28, 2026
+Work Completed
+Improved Al Agent integration with:
+Instagram Posting
+SQL
+wordpress
+Optimized and enhanced nodes for better performance under load:
+WordPress Node → up to 2000 mixed requests
+RSS Node → up to 500 mixed requests
+SQL Node → up to 500 mixed requests
+Show more
+Here's a cleaner and more professional version of your report:
+Daily Report - Saturday, March 28, 2026
+Work Completed
+• Improved Al Agent integration with:
+• Instagram Posting
+•
+SQL
+• WordPress
+Optimized and enhanced nodes for better performance under load:
+•
+WordPress Node handles up to 2000 mixed requests
+•
+RSS Node handles up to 500 mixed requests
+• SQL Node → handles up to 500 mixed requests
+•
+SQL Trigger Node → handles up to 500 mixed requests
+• Improved overall node behavior and stability, ensuring smooth compatibility with Al Agent
+workflows.
+•
+Added Al Agent schema support for:
+• Shopify Node
+Next Steps
+•
+Continue stress testing across all nodes to ensure stability under high load.
+• Expand Al Agent compatibility across additional integrations.
+·
+Monitor performance and optimize any bottlenecks detected.
+O B D IS...
+i want creaet weekly plan
+but decilammer that i have this week personal issues that make me
+work as part time
+Sunday
+Shopify workflow
+Shopify test
+Shopify node ui improve
+Show more
+Here's a clean and professional weekly plan with your disclaimer included:
+Weekly Plan
+[This Week]
+Note: Due to some personal circumstances this week, I will be working at a reduced (part-time) capacity. Priorities will be focused on delivering the most critical tasks.
+Sunday
+•
+Work on Shopify workflows.
+• Perform Shopify testing.
+• Improve Shopify Node UI/UX.
+Monday
+•
+Continue Shopify workflows.
+• Improve Shopify Node based on field testing results.
+• Meeting with Mabrouk.
+• Meeting with Learning Rockets.
+Tuesday
+•
+Continue Shopify workflows.
+• Meeting with Yousra to explain workflows and company projects.
+• Work on general project tasks.
+• Follow up with Paymob.
+•
+Plan Shopify Trigger architecture.
+Wednesday
+• Start development of Shopify Trigger.
+• Continue work on projects.
+Thursday
+•
+Continue Shopify Trigger development.
+• Continue work on projects.
+• Conduct research on e-commerce systems and best practices.
+If you want, I can make a more strategic version (with priorities, risks, and deliverables) — the kind
+managers love.
+today is mar 29
+Work on Shopify workflows.
+Perform Shopify ux testing & field testing.
+Improve Shopify Node UI/UX.
+start Conduct research on e-commerce systems and best practices.
+Show more ▼
+Daily Report - Sunday, March 29, 2026
+Work Completed
+• Worked on Shopify workflows.
+• Performed Shopify UX testing and field testing.
+• Improved Shopify Node UI/UX.
+•
+Started conducting research on e-commerce systems and best practices.
+·
+Built and organized the weekly plan.
+Follow-ups
+·
+Followed up with:
+• Mabrouk
+• Learning Rockets
+• Tamiyouz
+Next Steps
+• Continue improving Shopify workflows and UI/UX.
+• Apply insights from e-commerce research into Shopify development.
+• Proceed with Shopify trigger planning and implementation.
+mar 30
+Continue research on e-commerce systems and best practices.
+continue workflow development
+daily stundup / meeting with eng.mahmoud to make workflow work
+/meeting with client mabrouk
+start shopify webhook plaining
+Show more ▾
+*
+*
+**
+*
+*
+**
+*
+*
+*
+*
+Daily Report - Monday, March 30, 2026
+Meetings
+• Attended the daily stand-up meeting.
+*
+• Meeting with Eng. Mahmoud to ensure the workflow functions correctly.
+• Meeting with client Mabrouk to discuss updates and next steps.
+Work
+Completed
+• Continued research on e-commerce systems and best practices.
+•
+Continued workflow development and improvements.
+•
+Started planning the Shopify Webhook implementation.
+Next Steps
+•
+Continue Shopify webhook planning and move into development.
+•
+Enhance workflows based on meeting feedback.
+• Apply research insights to improve system design and scalability.
+O o 9 ↑ ≈
+rewrite this pland and organize for me
+Sunday Followup day
+Followup day and antract with clients (mabrouk - logistic - learning
+Learning rockets contract
+Start Eu
+Show more
+Here's your plan rewritten, structured, and more professional:
+Weekly Plan
+Sunday- Follow-up & Planning Day
+· Follow up and interact with clients:
+• Mabrouk
+•
+Logistics
+• Learning Rockets
+• Tamiyouz
+Conduct Mabrouk meeting.
+• Prepare Learning Rockets contract.
+Start work on:
+• EU project
+• Mabrouk project
+• Tamiyouz project
+Create and organize the weekly plan.
+Monday - Client Execution Day
+• Finalize tasks for Tamiyouz.
+•
+Continue development on Mabrouk project.
+•
+Continue progress on EU
+project.
+•
+Continue progress on EU project.
+Tuesday - Dragify Focus Day
+•
+Start implementing CI/CD with Eng. Elgharabawy.
+·
+Make payments live on the platform.
+• Improve pricing plans with credits, for example:
+500 EGP=7000 credits
+·
+Adjust remaining plans accordingly
+• Align pricing logic with:
+• Landing page
+• Payment system
+• Adjust credit consumption for nodes/blocks based on updated plans.
+Wednesday - Dragify Development Day
+• Complete CI/CD implementation with Eng. Elgharabawy.
+•
+Add Shopify Triggers.
+• Ensure Shopify Node stability and performance.
+• Fix and debug workflow issues.
+Thursday - Client Progress Day
+•
+Continue development on EU project.
+• Continue development on Mabrouk project.
+If you want, I can upgrade this into a high-level sprint plan (with priorities, KPIs, and risks) — which is
+very useful if you're presenting it to your manager.
+Daily Report - Sunday, April 5, 2026
+Meetings
+• Conducted a meeting with Mabrouk.
+Work Completed
+•
+Followed up and communicated with:
+•
+Mabrouk
+•
+Logistics
+• Learning Rockets
+•
+Tamiyouz
+• Prepared the Learning Rockets contract.
+• Started work on:
+• EU project
+• Mabrouk project
+Create au viganize the weekly piani.
+today apr 5
+today apr 5
+Sunday - Follow-up & Planning Day
+Follow up and interact with clients:
+Mabrouk
+Logistics
+Learning Rockets
+Tamiyouz
+Conduct Mabrouk meeting.
+Prepare Learning Rockets contract.
+Show more
+Sunday - Follow-up & Planning Day
+Follow up and interact with clients:
+Mabrouk
+Logistics
+Learning Rockets
+Tamiyouz
+Conduct
+Mabrouk meeting.
+Prepare Learning Rockets contract.
+Show more ▼
+Daily Report - Sunday, April 5, 2026
+Meetings
+•
+Conducted a meeting with Mabrouk.
+Work Completed
+• Followed up and communicated with:
+•
+Mabrouk
+• Logistics
+•
+Learning Rockets
+•
+Tamiyouz
+•
+Prepared the Learning Rockets contract.
+EU Project:
+Finished development and delivered the project.
+•
+Finished development and delivered the project.
+•
+Currently waiting for client review and feedback.
+Continued work on:
+Mabrouk project
+• Tamiyouz project
+• Created and organized the weekly plan.
+• Organized and refactored codebase to align with the new GitHub structure.
+Next
+Steps
+• Follow up with EU client for review and final confirmation.
+• Continue development on Mabrouk and Tamiyouz projects.
+• Finalize Learning Rockets contract.
+↑ 2
+today is apr6
+Finalize tasks for Tamiyouz. (finished tam contract 2)
+Continue development on Mabrouk project. (make all requirment
+them asked in tele part)
+Continue progress on EU project. (just followup)
+start lightly in ci cd
+Show more
+Daily Report - Monday, April 6, 2026
+Meetings
+• Attended the daily stand-up meeting.
+• Attended Sayed Gigs meeting (Qatar Stock Exchange discussion).
+• Attended Tamiyouz meeting.
+Work Completed
+•
+Completed Tamiyouz Contract v2.
+•
+Finalized tasks for Tamiyouz:
+•
+Continued development on the Mabrouk project:
+• Implemented all requested requirements related to the Telegram part.
+•
+EU
+Project:
+·
+Continued follow-up with the client (project already delivered).
+•
+Started working lightly on CI/CD setup.
+Next Steps
+•
+Continue CI/CD implementation.
+• Monitor Tamiyouz after contract finalization.
+• Continue development and testing for Mabrouk.
+• Follow up with EU client for final feedback and closure.
+o B D IC
+Daily Report - Tuesday, April 7, 2026
+Meetings
+today is 7 apr
+uesday - Dragify Focus Day
+Follow
+up
+(Learning rockets - mabrouk)
+Start implementing CI/CD with Eng. Elgharabawy.
+Improve pricing plans with credits, for example:
+500 EGP = 7000 credits
+Adjust remaining plans accordingly
+Align pricing logic with:
+Show more
+• Coordination with Eng. Elgharabawy regarding CI/CD implementation.
+Work Completed
+• Followed up with:
+• Learning Rockets
+• Mabrouk
+•
+Started implementing CI/CD with Eng. Elgharabawy.
+Worked on improving pricing plans using credits, including:
+• Defining example: 500 EGP = 7000 credits
+• Planning adjustments for remaining pricing tiers.
+Started aligning pricing logic with:
+• Landing page
+•
+Payment system
+Started development of Shopify Webhook.
+Next Steps
+Continue CI/CD implementation.
+•
+• Finalize pricing structure and integrate it with the platform.
+• Complete Shopify Webhook development.
+• Continue follow-ups with clients.
+↑ 2
+Follow up (Eu - tamiyouz - logistic - david dubai)
+Complete CI/CD implementation with Eng. Elgharabawy.
+Add Shopify
+Triggers.
+Meeting learning rockets
+Ensure Shopify Node stability and performance.
+Fix and debug workflow issues.
+Daily Report - Wednesday, April 8, 2026
+Meetings
+• Meeting with Learning Rockets.
+• Coordination with Eng. Elgharabawy to finalize CI/CD.
+Work Completed
+• Followed up with:
+•
+EU client
+• Tamiyouz
+• Logistics
+•
+David (Dubai)
+• Completed CI/CD implementation with Eng. Elgharabawy.
+• Added Shopify Triggers.
+• Ensured Shopify Node stability and performance through testing and improvements.
+·
+Fixed and debugged workflow issues.
+Next
+Steps
+• Monitor CI/CD pipelines after deployment.
+• Continue improving Shopify integrations and workflows.
+• Follow up with clients based on recent updates.
+Thursday - Client Progress Day
+Follow up (EU - learning rockets - mabrouk)
+Ensure Shopify Node stability and performance.
+Fix and debug workflow issues.
+Adjust credit consumption for nodes/blocks based on updated
+plans.
+Continue development on the EU project.
+Continue development on the Mabrouk project.
+Finalize tasks for Tamiyouz.
+*
+Show more
+Daily Report - Thursday & Friday, April 9-10, 2026
+Meetings
+•
+Follow-ups and coordination with:
+·
+EU client
+• Learning Rockets
+• Mabrouk
+Work Completed
+·
+Ensured Shopify Node stability and performance through testing and improvements.
+Fixed and debugged multiple workflow issues.
+• Adjusted credit consumption for nodes/blocks based on updated pricing plans.
+•
+Continued development on:
+•
+EU project
+• Mabrouk project
+Finalized tasks for Tamiyouz.
+• Completed David's work:
+• Gained deeper understanding of web scraping and Make.com workflows.
+Built a workflow based on Shopify Webhooks:
+Encountered efficiency issues with the spreadsheet integration (needs optimization).
+Next Steps
+• Optimize Shopify webhook workflow, especially spreadsheet performance.
+• Continue improving node efficiency and workflow stability.
+• Follow up with clients on recent updates and deliverables.
+o B D I S
+improve this weekly plan
+Sunday
+Mabrouk
+DevOps ci/cd
+Adjust the credit consumption for your blocks based on the new
+plans
+Tuesday
+Show more
+Here's a more structured and professional version of your weekly plan with clearer priorities and flow:
+Weekly
+Plan
+Sunday - Core Development & System Optimization
+• Continue development on Mabrouk project.
+• Work
+on DevOps (CI/CD implementation).
+• Adjust credit consumption logic for all nodes/blocks based on the updated pricing plans.
+Tuesday - Integrations & Client Coordination
+• Deploy E-commerce integrations (WooCommerce) on the platform.
+Continue CI/CD implementation and improvements.
+•
+Follow up with:
+• Tamiyouz
+EU client
+• Learning Rockets
+Wednesday - Platform Features & Templates
+• Deploy 4 templates on the
+platform (as discussed).
+• Continue CI/CD work and optimization.
+• Follow up with:
+• Tamiyouz
+• EU client
+• Learning Rockets
+Thursday - Stabilization & Follow-ups
+• Continue CI/CD implementation and monitoring.
+• Focus on system stability and performance improvements.
+•
+Follow up with:
+• Tamiyouz
+• EU client
+• Learning Rockets
+Key Focus Areas This Week
+•
+Finalizing and stabilizing CI/CD pipeline.
+·
+•
+Improving pricing system (credits logic).
+Expanding E-commerce integrations (WooCommerce + Shopify).
+• Delivering templates and platform-ready features.
+• Maintaining strong client communication and follow-ups.
+If you want, I can make this into a manager-level sprint plan with KPIs, risks, and deliverables (this is what senior engineers usually present).
+o B D Û ≈
+***
+today is 12 apr
+Continue development on Mabrouk project.
+Week plan
+Daily stundup
+Work on DevOps (CI/CD implementation).
+Adjust credit consumption logic for all nodes/blocks based on the
+updated pricing plans.
+Daily Report - Sunday, April 12, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+·
+Continued development on the Mabrouk project.
+• Created and organized the weekly plan.
+• Worked on DevOps (CI/CD implementation).
+• Adjusted credit consumption logic for nodes/blocks based on the updated pricing plans.
+Next Steps
+• Continue CI/CD implementation and testing.
+• Monitor and refine credit system behavior.
+Proceed with Mabrouk development and validation.
+Daily Report - Tuesday, April 14, 2026
+today is 14 apr
+Daily stundup
+add (WooCommerce) node on the platform.
+Documentation for WooCommerce.
+Made unit test & field test used it in the workflow
+Deploy 2 templates on the platform (as discussed).
+Continue CI/CD implementation and improvements.
+Follow up with:
+Tamiyouz
+Show more ▾
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+•
+Added WooCommerce Node to the platform.
+•
+Created documentation for WooCommerce integration.
+•
+Performed unit testing and field testing, and successfully used it within workflows.
+• Deployed 2 templates on the platform (as planned).
+• Continued work on CI/CD implementation and improvements.
+Follow-ups
+• Followed up with:
+• Tamiyouz
+• EU client
+• Mabrouk
+Next Steps
+• Continue improving WooCommerce node performance and usage.
+• Expand testing across more workflows.
+• Proceed with CI/CD stabilization and monitoring.
+O B
+Wednesday - 15
+Daily stundup
+add
+(WooCommerce) trigger node on the platform.
+Add documentation for this
+Deploy 2 templates on the platform (as discussed).
+Continue CI/CD work and optimization. (deploy on server)
+up the dev server and connect with the domain with the help of
+Set
+the eng. Ahmed Elgrabawy
+Slack
+Daily Report - Wednesday, April 15, 2026
+Meetings
+• Attended the daily stand-up meeting.
+Work Completed
+• Added WooCommerce Trigger Node to the platform.
+Created documentation for the WooCommerce Trigger.
+•
+Deployed 2 templates on the platform (as discussed).
+•
+Continued CI/CD implementation and optimization, including deployment on the server.
+•
+Set up the development server and connected it to the domain with the help of Eng. Ahmed
+Elgharabawy.
+•
+Worked on Slack integration/updates.
+Next Steps
+• Monitor WooCommerce trigger performance and usage.
+• Continue CI/CD improvements and ensure deployment stability.
+•
+Expand Slack integration and testing.
+O O D 1 2 ...
+improve this plan
+Sunday
+Continue development on Mabrouk project.
+Week
+plan
+Daily stundup
+Deploy the template of ai assistant
+Followup:
+Eu
+Tamiyouz
+mabrouk
+Show more
+Here's your plan cleaned, structured, and more strategic (same content but clearer priorities and
+flow):
+Weekly Plan
+Sunday - Planning & Core Progress
+•
+Continue development on Mabrouk project.
+• Create and organize the weekly plan.
+• Deploy Al Assistant template on the platform.
+•
+Attend
+daily stand-up.
+Follow-ups:
+·
+EU
+• Tamiyouz
+•
+Mabrouk
+• Slack updates
+Monday - Feature Development (WhatsApp Node)
+•
+Attend
+daily
+stand-up.
+•
+Continue development on Mabrouk project.
+• Add and improve WhatsApp Node:
+• Media support
+•
+Confirmation buttons
+Follow-ups:
+• Tamiyouz
+• Learning Rockets
+• EU client
+•
+Mabrouk
+• Slack
+Tuesday - E-commerce Templates & Iteration
+•
+Attend daily stand-up.
+• Meeting
+with EU client.
+• Continue improving WhatsApp Node (media + buttons).
+•
+Build 2 e-commerce templates on the platform.
+Follow-ups:
+• Tamiyouz
+• Learning Rockets
+• EU client
+•
+Mabrouk
+• Slack
+Wednesday - Testing & DevOps
+• Attend daily stand-up.
+• Build 3 e-commerce templates.
+•
+Test integrations:
+• Shopify
+• WooCommerce
+• SQL
+• Google Calendar
+Continue
+CI/CD implementation and optimization.
+Set up development server + domain connection with Eng. Ahmed Elgharabawy.
+•
+• Slack updates.
+Thursday - Stabilization & Coverage
+•
+Attend daily stand-up.
+Continue CI/CD optimization and monitoring.
+•
+Build 3 additional e-commerce templates.
+• Test remaining Meta nodes (not yet tested).
+Follow-ups:
+•
+Tamiyouz
+• Learning Rockets
+•
+Mabrouk
+• EU
+•
+Slack
+Additional Focus Areas (Across the Week)
+•
+Follow up with Paymob.
+• Perform comprehensive testing across nodes and workflows.
+• Add pricing table to landing page aligned with pricing plans.
+Key
+Priorities
+• WhatsApp Node enhancements (media + interaction UX).
+·
+E-commerce templates (Shopify / WooCommerce ready).
+• CI/CD deployment and stability.
+•
+Full testing coverage (Meta + core nodes).
+•
+Client
+communication & delivery.
+If you want, I can convert this into a high-impact sprint plan with KPIs + deliverables + risk
+management (this is what senior engineers / leads usually present).
+o B D I ≈ ...
+create report slack for 18, 17, 16
+make this blog https://dragify.ai/resources/blog/docsearch-vs-
+knowledge on dragify
+create
+2
+workflows and tested alot of things on platform and made
+report based on each workflow
+followup with
+Show more
+Here's a clean Slack report (combined for April 16-18):
+Daily Report - April 16-18, 2026
+[Dragify Al]
+Work Completed
+·
+Published blog on Dragify:
+→ DocSearch vs Knowledge
+• Created 2 workflows and performed extensive testing across the platform.
+Validated multiple nodes and integrations.
+•
+• Documented results and created a report for each workflow.
+Continued CI/CD implementation and monitoring to ensure stability and smooth deployments.
+Follow-ups
+Followed up with:
+• Tamiyouz
+• Learning Rockets
+•
+Mabrouk
+•
+EU client
+*
+*
+*
+*
