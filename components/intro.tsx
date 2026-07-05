@@ -57,10 +57,11 @@ export default function Intro() {
         className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}>
-        <span className="font-bold">Hello, I'm Yousef.</span>{" "}
-        <span className="font-bold">AI Automation Engineer</span> and{" "}
-        <span className="font-bold">Full-Stack Engineer</span> building AI
-        agents and smart automation workflows for real business operations.
+        <span className="font-bold">Hello, I'm Yousef.</span> I'm a{" "}
+        <span className="font-bold">Full-Stack Software Engineer</span>
+        {/* <span className="font-bold underline decoration-indigo-500 underline-offset-4">AI Agents</span> and{" "} */}
+        {/* <span className="font-bold underline decoration-indigo-500 underline-offset-4">Workflow Automation</span> */}
+        . I build robust SaaS platforms, intelligent CRMs, and complex API integrations that drive real business impact.
       </motion.h1>
 
       <motion.div
