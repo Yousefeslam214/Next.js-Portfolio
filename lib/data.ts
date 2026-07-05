@@ -305,50 +305,50 @@ export const projectsData: readonly ProjectData[] = [
     demoUrl: "https://grand-events-website.vercel.app/",
     githubUrl: "https://github.com/Yousefeslam214/Grand-Events-Website",
   },
-  {
-    slug: "ajwad-website",
-    title: "Ajwad Website",
-    description:
-      "Corporate website developed for a real estate brand. Built using WordPress with custom theme modifications.",
-    details: [
-      "A corporate website for a real estate brand, built on WordPress with custom theme adjustments.",
-      "Focused on a professional look, content structure, and maintainability for non-technical updates.",
-    ],
-    highlights: ["Custom theme modifications", "Content-focused structure"],
-    tags: ["WordPress"],
-    imageUrl: ajwadPic,
-    demoUrl: "https://ajw-ad.net/",
-  },
-  {
-    slug: "aether-pixels-website",
-    title: "Aether Pixels Website",
-    description:
-      "A visually-rich website created for a design agency. Built with WordPress focusing on aesthetics and performance.",
-    details: [
-      "A visually rich website for a design agency with a strong emphasis on aesthetics and fast loading.",
-      "Built on WordPress to allow easy content updates while maintaining a polished UI.",
-    ],
-    highlights: ["Design-focused layout", "Performance-minded build"],
-    tags: ["WordPress"],
-    imageUrl: aetherPic,
-    demoUrl: "https://aetherpixels.com",
-    // githubUrl: "https://github.com/your-username/aetherpixels",
-  },
-  {
-    slug: "trippy-website",
-    title: "Trippy Website",
-    description:
-      "A modern travel-themed web app built using React.js and JavaScript. Focused on smooth UI and performance.",
-    details: [
-      "A travel-themed web app with a modern, smooth UI and responsive layout.",
-      "Built with React to practice component-driven architecture and interactive UI patterns.",
-    ],
-    highlights: ["Component-based UI", "Responsive layout", "Smooth interactions"],
-    tags: ["React.js", "JavaScript"],
-    imageUrl: trippyPic,
-    demoUrl: "https://trippy-214.netlify.app/",
-    githubUrl: "https://github.com/Yousefeslam214/Trippy",
-  },
+  // {
+  //   slug: "ajwad-website",
+  //   title: "Ajwad Website",
+  //   description:
+  //     "Corporate website developed for a real estate brand. Built using WordPress with custom theme modifications.",
+  //   details: [
+  //     "A corporate website for a real estate brand, built on WordPress with custom theme adjustments.",
+  //     "Focused on a professional look, content structure, and maintainability for non-technical updates.",
+  //   ],
+  //   highlights: ["Custom theme modifications", "Content-focused structure"],
+  //   tags: ["WordPress"],
+  //   imageUrl: ajwadPic,
+  //   demoUrl: "https://ajw-ad.net/",
+  // },
+  // {
+  //   slug: "aether-pixels-website",
+  //   title: "Aether Pixels Website",
+  //   description:
+  //     "A visually-rich website created for a design agency. Built with WordPress focusing on aesthetics and performance.",
+  //   details: [
+  //     "A visually rich website for a design agency with a strong emphasis on aesthetics and fast loading.",
+  //     "Built on WordPress to allow easy content updates while maintaining a polished UI.",
+  //   ],
+  //   highlights: ["Design-focused layout", "Performance-minded build"],
+  //   tags: ["WordPress"],
+  //   imageUrl: aetherPic,
+  //   demoUrl: "https://aetherpixels.com",
+  //   // githubUrl: "https://github.com/your-username/aetherpixels",
+  // },
+  // {
+  //   slug: "trippy-website",
+  //   title: "Trippy Website",
+  //   description:
+  //     "A modern travel-themed web app built using React.js and JavaScript. Focused on smooth UI and performance.",
+  //   details: [
+  //     "A travel-themed web app with a modern, smooth UI and responsive layout.",
+  //     "Built with React to practice component-driven architecture and interactive UI patterns.",
+  //   ],
+  //   highlights: ["Component-based UI", "Responsive layout", "Smooth interactions"],
+  //   tags: ["React.js", "JavaScript"],
+  //   imageUrl: trippyPic,
+  //   demoUrl: "https://trippy-214.netlify.app/",
+  //   githubUrl: "https://github.com/Yousefeslam214/Trippy",
+  // },
 ];
 
 export const skillsData = [
